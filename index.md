@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Ministry of Law - Licensing & Regulatory of Insolvency Practitioners
+title: Ministry of Law - Licensing & Regulation of Insolvency Practitioners
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /
 ---
