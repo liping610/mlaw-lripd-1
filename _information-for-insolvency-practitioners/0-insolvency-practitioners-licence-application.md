@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Insolvency Practitioner's License Application
-permalink: /information-for-insolvency-practitioners/insolvency-practitioners-license-application/
-breadcrumb: Insolvency Practitioners License Application
+title: Insolvency Practitioner's Licence Application
+permalink: /information-for-insolvency-practitioners/insolvency-practitioners-licence-application/
+breadcrumb: Insolvency Practitioners Licence Application
 collection_name: information-for-insolvency-practitioners
 ---
 
