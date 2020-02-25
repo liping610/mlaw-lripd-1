@@ -15,7 +15,7 @@ collection_name: general-information
 <br>
 The Licensing Officer is a public officer appointed by the Minister of Law to oversee the
 licensing and regulaton of Insolvency Practitioners (“IPs”) in Singapore. The Licensing
-Officer heads the Licensing & Regulaton of Insolvency Practitioner Division to manage and
+Officer heads the Licensing & Regulation of Insolvency Practitioner Division to manage and
 regulate these licensees. The division also contributes towards making Singapore a lead hub
 for insolvency and debt-restructuring work by promoting and maintaining a trusted and
 professional environment for professionals engaging in insolvency and restructuring
