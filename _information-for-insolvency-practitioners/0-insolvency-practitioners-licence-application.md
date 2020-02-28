@@ -21,7 +21,7 @@ You must be a qualified person who is either a:<br>
 
 **2. Relevant Work Experience**
 <br><br>
-You must satisfy either of the following requirements:
+You must satisfy at least one of the following requirements:
 <br>
 * Acted as an Insolvency Practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act ("the Act") or under corresponding previous law;
 <br>
