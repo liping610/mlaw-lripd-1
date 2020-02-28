@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Acting as Insolvency Practitioners
-permalink: /information-for-public/acting-as-insolvency-practitioners/
-breadcrumb: Acting as Insolvency Practitioners
+title: As An Insolvency Practitioners
+permalink: /information-for-public/as-an-insolvency-practitioners/
+breadcrumb: As an Insolvency Practitioners
 collection_name: information-for-public
 ---
 
-Under the Insolvency, Restructuring and Dissolution Act (2018) (“the Act”), an Insolvency Practitioner’s licence is required if an individual wishes to undertake the following appointment(s):
+Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an Insolvency Practitioner’s licence is required if an individual wishes to undertake the following appointment(s):
 <br><br> 
 ⦁	Liquidator or provisional liquidator of the corporation;
 <br>
