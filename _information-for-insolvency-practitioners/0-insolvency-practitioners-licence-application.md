@@ -23,7 +23,7 @@ You must be a qualified person who is either a:<br>
 <br><br>
 You must satisfy at least one of the following requirements:
 <br>
-* Acted as an Insolvency Practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act ("the Act") or under corresponding previous law;
+* Acted as an Insolvency Practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act 2018 ("the Act") or under corresponding previous law;
 <br>
 * Assisted another person in that person acting as an Insolvency Practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br>
