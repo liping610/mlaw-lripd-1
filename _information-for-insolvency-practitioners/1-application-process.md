@@ -19,7 +19,7 @@ Please provide us with a copy of the following documents when submitting your li
 a) Curriculum Vitae;
 <br>
 
-b) Documentary proof showing that you are a qualified within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act (2018):
+b) Documentary proof showing that you are a qualified within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018:
 <br>
 * For **Solicitors** – Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
