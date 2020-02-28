@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: As An Insolvency Practitioners
-permalink: /information-for-public/as-an-insolvency-practitioners/
-breadcrumb: As an Insolvency Practitioners
+title: As An Insolvency Practitioner
+permalink: /information-for-public/as-an-insolvency-practitioner/
+breadcrumb: As an Insolvency Practitioner
 collection_name: information-for-public
 ---
 
