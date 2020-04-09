@@ -46,7 +46,7 @@ In determining whether you are a “fit and proper” person to hold or continue
 <br>
 * whether you ever been adjudged a bankrupt in Singapore or under the laws of any foreign country;
 <br>
-* whether you ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign company;
+* whether you ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign countries;
 <br>
 * whether you ever been subject to a Voluntary Arrangement and / or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br>
