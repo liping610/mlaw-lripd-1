@@ -23,7 +23,7 @@ b) Documentary proof showing that you are a qualified within the meaning of sect
 <br>
 * For **Solicitors** – Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
-* For **Chartered Accountants** – Certificate of Good Standing issued by the Institute of Singapore Chartered Accountants ("ISCA")
+* For **Chartered Accountants** – Recent Certificate of Good Standing issued by the Institute of Singapore Chartered Accountants ("ISCA")
 <br>
 
 c) Professional Membership(s) in any local or foreign professional bodies relating to your qualification, which may include:
