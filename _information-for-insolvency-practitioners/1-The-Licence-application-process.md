@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Application Process
+title: The Licence Application Process
 permalink: /information-for-insolvency-practitioners/application-process/
-breadcrumb: Application Process
+breadcrumb: The Licence Application Process
 collection_name: information-for-insolvency-practitioners
 ---
 
-Application Process
+The Licence Application Process
 ---
 **Where to Apply**
 <br><br>
@@ -32,7 +32,7 @@ c) Professional Membership(s) in any local or foreign professional bodies relati
 * ISCA
 <br>
 
-d) Documentary proof evidencing your work experiences to be eligible for the grant or renewal of the licence. These may include:
+d) Proof of relevant work experience to be eligible for the grant ore renewal of the licence. The supporting documents may include (but are not limited to):
 <br>
 * Court orders, resolutions passed by members or creditors of the company showing your insolvency appointment(s)
 * Approved liquidator’s licence with ACRA;
