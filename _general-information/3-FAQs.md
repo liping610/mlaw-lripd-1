@@ -25,7 +25,7 @@ An Insolvency Practitioner does not include:<br>
 **3.	I would like to file a complaint against the conduct of an Insolvency Practitioner.** 
 <br><br>
 Please provide us with the details of your complaint by completing the Insolvency Practitioners Complaints Form (hyperlink on the word IP Complaints form) and submit it <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">here</a> together with the relevant supporting documents. Alternatively, the documents may also be sent via post to:
-<br>
+<br><br>
 Licensing Officer<br>
 45 Maxwell Road<br> 
 The URA Centre (East Wing) #07-11<br>
