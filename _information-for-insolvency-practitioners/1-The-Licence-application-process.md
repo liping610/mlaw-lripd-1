@@ -76,25 +76,26 @@ f) Any other relevant documents which you wish to provide.
 <br><br>
 **Licence Validity**
 <br><br>
-A **new** Insolvency Practitioner’s licence will remain in force until 30th June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 July 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
+A licence that is issued for the first time, i.e. a **new** Insolvency Practitioner’s licence will remain valid until 30th June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 July 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
-A **renewed** Insolvency Practitioner’s Licence will continue in force for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
+Thereafter, a licence that is renewed will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
+
 <br><br>
-**Renewal Period**
-<br><br>Please submit your renewal application via GoBusiness from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an Insolvency Practitioner, you are advised to submit their renewal application early. 
+**Licence Renewal Period**
+<br><br>
+Please submit your renewal application via GoBusiness from 1 March to 30 April of the licence’s expiry year. To avoid unnecessary disruption in acting as an Insolvency Practitioner, you are advised to submit your renewal application early. 
 <br><br>
 If you fail to submit your renewal within the stipulated period, you will be required to submit your application as a new applicant and be subject to the corresponding application fee that applies to it instead.
 <br><br>
 **Application Fees**
-<br><br> An application fee of **$650.00** is imposed to apply for a **new** Insolvency Practitioner’s licence, while **$600.00** is imposed to **renew** an Insolvency Practitioner’s licence. 
+<br><br> 
+An application fee of **$650.00** is payable for any **new** application for Insolvency Practitioner’s licence, while a fee of **$600.00** is payable for any application to **renew** an Insolvency Practitioner’s licence. Payments are made through the GoBusiness portal using the following electronic payment modes:
+<br>
+* PayPal;<br>
+* VISA;<br>
+* Mastercard;<br>
+* American Express; or<br>
+* Discover.<br>
 <br><br>
-Payments are made through GoBusiness platform using the following electronic payment modes:
-<br>
-   * PayPal;<br>
-   * VISA;<br>
-   * Mastercard;<br>
-   * American Express; or<br>
-   * Discover.<br>
-<br>
-
 Please note that the application fee is **strictly non-refundable**, regardless the outcome of your licence application.
+<br>
