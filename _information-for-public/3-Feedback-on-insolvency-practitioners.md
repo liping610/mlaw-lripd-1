@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Feedback on Insolvency Practitioners
+title: Complaints on Insolvency Practitioners
 permalink: /information-for-public/Complaints-on-insolvency-practitioners/
 breadcrumb: Complaints on Insolvency Practitioners
 collection_name: information-for-public
