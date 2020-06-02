@@ -38,7 +38,7 @@ a) Whether an applicant has ever had any approved licence(s) issued by the Accou
 <br>
 b) Whether an applicant has previously been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 <br>
-c) Whether an applicant has previously had a judgment entered against you in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on your part;
+c) Whether an applicant has previously had a judgment entered against you in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
 <br>
 d) Whether an applicant has ever had or received any treatment for or plan to be treated for any mental disorder;
 <br>
