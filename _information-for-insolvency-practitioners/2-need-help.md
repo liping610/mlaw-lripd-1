@@ -11,6 +11,6 @@ Need Help?
 <br>
 To insert image<br>
 <br>
-•	If you encounter difficulties, or need guidance regarding the completion of the application form, please refer to our [GoBusiness Licensing Portal Guide for Insolvency Practitioners] (Step-by-Step with Screenshots)(/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for more information.
+•	If you encounter difficulties, or need guidance regarding the completion of the application form, please refer to our [GoBusiness Licensing Portal Guide for Insolvency Practitioners] (/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) {:target="_blank"} for more information.
 
 
