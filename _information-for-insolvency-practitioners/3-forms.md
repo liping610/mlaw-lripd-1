@@ -19,12 +19,3 @@ Prescribed forms under the Insolvency, Restructuring and Dissolution (Insolvency
 **c.	Form IP-3 – Petition of Appeal**<br>
 * Please click [here](/files/ML List as at 1 Jan 2020.pdf).
 <br>
-
-
-
-Prescribed forms under the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020
-a.	
-
-
-
-
