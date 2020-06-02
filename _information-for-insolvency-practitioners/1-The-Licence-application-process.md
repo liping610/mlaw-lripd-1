@@ -34,9 +34,41 @@ c) Professional Membership(s) in any local or foreign professional bodies relati
 
 d) Proof of relevant work experience to be eligible for the grant ore renewal of the licence. The supporting documents may include (but are not limited to):
 <br>
-* Court orders, resolutions passed by members or creditors of the company showing your insolvency appointment(s)
-* Approved liquidator’s licence with ACRA;
+<table>
+<tr>
+  <td>Requirement</td>
+  <td>Supporting Documents</td>
+ </tr>
+ <tr>
+  <td>i.	Applicant has acted as an IP in relation to a corporation or an individual under the IRDA or under corresponding previous law;</td>
+  <td>
+•	Recent copies of orders of court, resolutions passed by members or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.
 
+•	Approved liquidator’s licence with ACRA 
+(if applicable).
+
+</td>
+ </tr>
+ <tr>
+  <td>ii.	Applicant has assisted another person in that person acting as an IP in relation to a corporation or an individual, under IRDA or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or 
+</td>
+  <td>Written confirmation from the person acting as an IP and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:
+
+•	Applicant’s job position;<br>
+•	Applicant’s role / involvement in the firm / organisation and; <br>
+•	the number of years of relevant experience in insolvency work attained with the firm / organisation. <br>
+
+</td>
+ </tr>
+ <tr>
+  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under corresponding previously law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
+  <td>•	Documents evidencing that the Applicant has acted  as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.
+
+•	Written declaration from the Applicant declaring the case references of the bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years (at least 4 cases for each preceding year). The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
+</td>
+ </tr>
+  
+</table><br>
 e) Documents relating to declaration(s) which you have stated “Yes” under the Declaration page; and
 <br>
 
