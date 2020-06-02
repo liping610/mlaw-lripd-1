@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Feedback on Insolvency Practitioners
-permalink: /information-for-public/feedback-on-insolvency-practitioners/
-breadcrumb: Feedback on Insolvency Practitioners
+permalink: /information-for-public/Complaints-on-insolvency-practitioners/
+breadcrumb: Complaints on Insolvency Practitioners
 collection_name: information-for-public
 ---
 
-**Feedback on Insolvency Practitioners**<br>
+**Complaints on Insolvency Practitioners**<br>
 ---
 If you have any feedback pertaining to the misconduct of any licensed Insolvency Practitioners, please complete the **[Insolvency Practitioner Feedback Form](/files/IP Feedback Form.pdf)** and submit it to us through the following means:<br>
 a. By Post; or <br>
