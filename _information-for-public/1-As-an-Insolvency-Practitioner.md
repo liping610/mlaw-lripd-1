@@ -20,9 +20,9 @@ Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an
 <br>
 ⦁	Nominee of a voluntary arrangement. 
 <br><br>
-Pursuant to section 48(1) of the Act, a person must not act as an Insolvency Practitioner in relation to a corporation or an individual, or advertise, or in any way hold out, that the person is willing to act as an Insolvency Practitioner in relation to a corporation or an individual.
+Section 48(1) of the Act prohibits any person from acting as an Insolvency Practitioner in relation to a corporation or an individual, or advertising, or in any way holding out, that he or she is willing to act as an Insolvency Practitioner in relation to a corporation or an individual without a license.
 <br><br>
-Any person who contravenes the above shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+Any person found contravening or acting to the contrary shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 <br>
 
 
