@@ -9,7 +9,7 @@ collection_name: information-for-insolvency-practitioners
 Insolvency Practitioner's Licence Application
 ---
 <br>
-To be eligible to hold an Insolvency Practitioner’s licence, you must fulfil the following criteria:
+To be eligible to hold an Insolvency Practitioner’s licence, an applicant must fulfil the following criteria:
 <br><br>**1. Qualified Person**
 <br><br>
 A "qualified person" is one who is a:<br>
@@ -48,7 +48,7 @@ f) Whether an applicant has previously been adjudged a bankrupt in Singapore or 
 <br>
 g) Whether an applicant has ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
 <br>
-h) Whether an applicant has ever been subject to a Voluntary Arrangement and / or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
+h) Whether an applicant has ever been subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br>
 i) Whether an applicant has ever been convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
 <br>
