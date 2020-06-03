@@ -77,7 +77,7 @@ The vacancy in the appointment arising from the inability to obtain a licence wi
 <br><br><br>
 **5.	How and where do I submit my application for an Insolvency Practitioner’s licence?**
 <br><br>
-Please submit your application for an Insolvency Practitioner’s licence via the Government’s GoBusiness Licensing portal (hyperlink). You may also refer to our Licence Application Guide here (hyperlink) on the Application Process for more information on the steps and documents required to submit your application.
+Please submit your application for an Insolvency Practitioner’s licence via the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Portal</a>. You may also refer to our Licence Application Guide here (hyperlink) on the Application Process for more information on the steps and documents required to submit your application.
 <br><br><br>
 **6.	How long will it take for my application to be processed?**
 <br><br>
