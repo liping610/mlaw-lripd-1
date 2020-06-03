@@ -33,26 +33,26 @@ Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy appl
 **3. “Fit and Proper”**
 <br><br>
 In determining whether you are a “fit and proper” person to hold or continue to hold the Insolvency Practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
-<br>
+<br><br>
 a) Whether an applicant has ever had any approved licence(s) issued by the Accounting and Corporate Regulatory Authority ("ACRA") and / or the Licensing Officer revoked or suspended;
-<br>
+<br><br>
 b) Whether an applicant has previously been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
-<br>
+<br><br>
 c) Whether an applicant has previously had a judgment entered against you in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
-<br>
+<br><br>
 d) Whether an applicant has ever had or received any treatment for or plan to be treated for any mental disorder;
-<br>
+<br><br>
 e) Whether an applicant is presently an undischarged bankrupt;
-<br>
+<br><br>
 f) Whether an applicant has previously been adjudged a bankrupt in Singapore or under the laws of any foreign country, but has since been discharged from bankruptcy in Singapore or in that foreign country;
-<br>
+<br><br>
 g) Whether an applicant has ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
-<br>
+<br><br>
 h) Whether an applicant has ever been subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
-<br>
+<br><br>
 i) Whether an applicant has ever been convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
-<br>
+<br><br>
 j) Whether an applicant has ever been a subject of any investigation(s) by governmental, statutory or professional bodies in respect of any offence involving dishonesty or any complaint against your professional conduct; and 
-<br>
+<br><br>
 k) Whether an applicant has ever been refused entry to any professional body or had your membership or registration with such professional body cancelled, revoked or suspended;
 <br>
