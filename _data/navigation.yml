@@ -31,6 +31,8 @@
     url: /information-for-public/register-of-licensed-insolvency-practitioner/
   - title: Feedback On Insolvency Practitioners
     url: /information-for-public/feedback-on-insolvency-practitioners/
+  - title: FAQs
+  url: /information-for-public/4-FAQs/
 - title: Information For Insolvency Practitioners
   url: /information-for-insolvency-practitioners/insolvency-practitioners-licence-application/
   sub-links:
@@ -44,8 +46,6 @@
     url: /information-for-insolvency-practitioners/forms/
   - title: Resources
     url: /information-for-insolvency-practitioners/resources/
-  - title: FAQs
-  url: /information-for-public/4-FAQs/
 - title: News
   url: "https://www.mlaw.gov.sg/news/"
   external: true
