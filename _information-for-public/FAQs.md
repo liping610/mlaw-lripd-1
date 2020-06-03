@@ -36,7 +36,7 @@ Please provide us with the details of your complaint by completing the Insolvenc
 <br><br>
 Licensing Officer<br>
 45 Maxwell Road<br> 
-The URA Centre (East Wing) #07-11<br>
+The URA Centre (East Wing) #07-11<br> 
 Singapore 069118<br>
 <br><br><br> 
 **4.	How do I find out who is the Insolvency Practitioner appointed for a specific insolvency case?** 
