@@ -10,7 +10,7 @@ The Licence Application Process
 ---
 **Where to Apply**
 <br><br>
-Please submit your application for the Insolvency Practitioner’s licence through the Government’s GoBusiness Licensing platform [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}
+Please submit your application for the Insolvency Practitioner’s licence through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a>.
 <br><br>
 **Documents Required**
 <br><br>
