@@ -5,7 +5,7 @@
 <br><br>
 **1.	What is the role of Licensing & Regulation of Insolvency Practitioners Division?**
 <br><br>
-The division assists the Licensing Officer to oversee the licensing and regulation of insolvency practitioners to ensure fair and responsible administration of insolvency and debt restructuring matters in Singapore.
+The division assists the Licensing Officer to oversee the licensing and regulation of insolvency practitioners to ensure fair and responsible administration of insolvency and debt restructuring matters in Singapore.<br>
 <br><br>
 **2.	Who is an Insolvency Practitioner?**
 <br><br>
@@ -37,11 +37,11 @@ You may conduct the following paid insolvency searches via our <a href="https://
 <br><br>
 i.	Individual Insolvency Search for persons.<br> 
 ii.	Corporate Insolvency Search for companies that have been compulsorily wound up by the Court.<br>  
-For companies that were not wound up by the Court, you may wish to conduct an ACRA Bizfile search.
+For companies that were not wound up by the Court, you may wish to conduct an ACRA Bizfile search.<br>
 <br><br>
 **5.	Can the Licensing Officer provide legal advice for corporate and individual insolvency matters?**
 <br><br>
-No. Please consult your solicitors for legal advice on such matters instead.
+No. Please consult your solicitors for legal advice on such matters instead.<br>
 <br><br>
 
 **Prospective/ Licensed Insolvency Practitioners**
@@ -56,8 +56,8 @@ Yes, you are required to hold a valid Insolvency Practitioner’s licence in ord
 <br><br>
 Section 527(1) of the Act, however, provides a 6-month transitional period effective from 15 June 2020 that allows you to undertake insolvency or debt-restructuring work commenced under the Act in the absence of an Insolvency Practitioner’s licence, and provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20)
 <br><br>
-At the end of the transitional period, you must hold an Insolvency Practitioner’s licence before you are allowed to undertake new appointments, or continue acting in your appointment as an insolvency practitioner in insolvency or debt-restructuring cases commenced under the Act. You are therefore advised to submit your application for an Insolvency Practitioner’s licence early to avoid contravening the requirements of the Act.
-<br><br><br>
+At the end of the transitional period, you must hold an Insolvency Practitioner’s licence before you are allowed to undertake new appointments, or continue acting in your appointment as an insolvency practitioner in insolvency or debt-restructuring cases commenced under the Act. You are therefore advised to submit your application for an Insolvency Practitioner’s licence early to avoid contravening the requirements of the Act.<br>
+<br><br>
 **3.	I am currently a trustee in bankruptcy / an approved liquidator acting as an insolvency practitioner in relation to an individual or a corporation. Will I automatically be given an Insolvency Practitioner’s licence or be deemed as a licensed Insolvency Practitioner?**
 <br><br>
 No. You will need to apply and hold an Insolvency Practitioner’s licence to be recognised as an approved Insolvency Practitioner. This is notwithstanding that you are currently a trustee in bankruptcy or an approved liquidator under the Bankruptcy Act (Cap. 20) and Companies Act (Cap. 50).
