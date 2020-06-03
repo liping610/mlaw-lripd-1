@@ -1,3 +1,12 @@
+---
+layout: leftnav-page-content
+title: FAQs
+permalink: /information-for-public/FAQs/
+breadcrumb: FAQs
+collection_name: information-for-public
+---
+
+
 **FAQs**
 <br><br>
 **General**
