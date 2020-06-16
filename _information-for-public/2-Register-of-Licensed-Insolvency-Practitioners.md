@@ -13,4 +13,4 @@ collection_name: information-for-public
 <br><br>
 <a href="/files/ML List as at 1 Jan 2020.pdf" target="_blank">List of indviduals whose Insolvency Practitioner's licences have been suspended or revoked</a>
 
-As at 31 March 2020
+As at 30 June 2020
