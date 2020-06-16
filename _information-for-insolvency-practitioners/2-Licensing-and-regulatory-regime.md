@@ -3,7 +3,7 @@
 The licensing framework of insolvency practitioners under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”) will be one where:
 <br><br>
 a)	An insolvency practitioner’s licence that is issued to a person who is a public accountant and / or chartered accountants will be allowed to undertake insolvency appointments in court-ordered winding up, creditors voluntary winding up, receivership, judicial management, bankruptcy and voluntary arrangement cases; and
-<br>
+<br><br>
 b)	An insolvency practitioner’s licence that is issued to a person who is a solicitor will be confined to undertake insolvency appointments in bankruptcy and voluntary arrangement cases only. 
 <br><br><br>
 
