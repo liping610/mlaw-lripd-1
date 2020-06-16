@@ -9,7 +9,7 @@ collection_name: information-for-insolvency-practitioners
 Insolvency Practitioner's Licence Application
 ---
 <br>
-To be eligible to hold an Insolvency Practitioner’s licence, an applicant must fulfil the following criteria:
+To be eligible to hold an insolvency practitioner’s licence, an applicant must fulfil the following criteria:
 <br><br>**1. Qualified Person**
 <br><br>
 A "qualified person" is one who is a:<br>
@@ -23,16 +23,16 @@ d)	Possess such other qualifications as the Ministry may prescribe by order in t
 <br><br>
 An applicant must satisfy at least one of the following requirements:
 <br>
-a) Acted as an Insolvency Practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act 2018 ("the Act") or under corresponding previous law;
+a) Acted as an insolvency practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act 2018 ("the Act") or under corresponding previous law;
 <br><br>
-b) Assisted another person in that person acting as an Insolvency Practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
+b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br><br>
 Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of an bankruptcy, under the Act or under corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.
 <br><br><br>
 
 **3. “Fit and Proper”**
 <br><br>
-In determining whether you are a “fit and proper” person to hold or continue to hold the Insolvency Practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
+In determining whether you are a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
 <br><br>
 a) Whether an applicant has ever had any approved licence(s) issued by the Accounting and Corporate Regulatory Authority ("ACRA") and / or the Licensing Officer revoked or suspended;
 <br><br>
