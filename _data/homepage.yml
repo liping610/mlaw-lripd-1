@@ -17,8 +17,8 @@ hero-banner: /images/LRIPD-cropped.png
 
 #Call to Action Button
 button:
-  - text: Contact Us
-    url: /contact-us/
+  - text: Learn More
+    url: /information-for-public/about-the-licensing-officer/
 
 key-highlights:
   - title: Applying for your Insolvency Practitioner's Licence
@@ -27,6 +27,6 @@ key-highlights:
   - title: Register of Licensed Insolvency Practitioners
     description: Get the list of Licensed Insolvency Practitioners in Singapore
     url: /information-for-public/register-of-licensed-insolvency-practitioners/
-  - title: Resources
-    description: Be equipped with the relevant knowledge
-    url: /information-for-insolvency-practitioners/resources/
+  - title: Contact Us
+    description: Find the answers to your questions
+    url: https://eservices.mlaw.gov.sg/enquiry/
