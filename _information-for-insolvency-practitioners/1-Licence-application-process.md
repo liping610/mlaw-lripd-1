@@ -50,7 +50,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
 </td>
  </tr>
  <tr>
-  <td>ii.	Applicant has assisted another person in that person acting as an IP in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
+  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 </td>
   <td>Written confirmation from the person acting as an insolvency practitioner and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:<br>
 
@@ -79,7 +79,6 @@ f) Any other relevant documents which you wish to provide.
 A licence that is issued for the first time, i.e. a new insolvency practitioner’s licence will remain valid until 30th June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 July 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
 Thereafter, a licence that is renewed will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
-
 <br><br>
 **Licence Renewal Period**
 <br><br>
@@ -97,16 +96,20 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * American Express; or<br>
 * Discover.<br>
 <br><br>
+
 Please note that the application fee is **strictly non-refundable**, regardless the outcome of your licence application.
 <br><br>
+
 **Processing Time**
 <br><br>
 We will take about 14 working days to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
 <br><br>
+
 **Notification of Outcome**
 <br><br>
 The outcome of your licence application will be made known to you via post and email. If your application is successful, a copy of the insolvency practitioner's licence will also be sent to you.
 <br><br>
+
 **Need Help?**
 <br><br>
 If you encounter difficulties or are not certain on how a licence application is submitted on the GoBuinsess licensing portal, please refer to our GoBusiness licensing portal guide for insolvency practitioners (hyperlink) for more information.
