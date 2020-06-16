@@ -1,4 +1,13 @@
-**Licensing and Regulatory Regime**
+---
+layout: leftnav-page-content
+title: Licensing and Regulatory Regime
+permalink: /information-for-insolvency-practitioners/licensing-and-regulatory-regime/
+breadcrumb: Licensing and Regulatory Regime
+collection_name: information-for-insolvency-practitioners
+---
+
+Licensing and Regulatory Regime
+---
 <br><br>
 The licensing framework of insolvency practitioners under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”) will be one where:
 <br><br>
