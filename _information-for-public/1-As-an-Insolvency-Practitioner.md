@@ -31,9 +31,8 @@ a)       wishes to be appointed as a liquidator in a members’ voluntary windin
 b)      intends to only administer insolvency or debt restructuring cases which had commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50).
 <br><br>
 <u>Transition to IRDA</u>
-<br>
+<br><br>
 Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt-restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>,  provided that he / she possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
-
 <br><br>
 <b>Scenario 1:</b> If you are an approved liquidator registered with ACRA but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br>
