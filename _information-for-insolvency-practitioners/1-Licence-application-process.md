@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: The Licence Application Process
+title: Licence Application Process
 permalink: /information-for-insolvency-practitioners/application-process/
-breadcrumb: The Licence Application Process
+breadcrumb: Licence Application Process
 collection_name: information-for-insolvency-practitioners
 ---
 
-The Licence Application Process
+Licence Application Process
 ---
 **Where to Apply**
 <br><br>
