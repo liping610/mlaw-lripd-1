@@ -43,6 +43,7 @@ Section 527(1) of the Act provides a 6-month transitional period (effective from
 
 * **Scenario 3:** If you are a qualified solicitor, you will only be allowed to undertake appointments in bankruptcy or voluntary arrangement cases commenced under the Act.
 <br><br>
+
 However, at the end of the transitional period, a person must hold an insolvency practitioner’s licence in order to administer new and / or existing insolvency or debt-restructuring cases commenced under the Act.
 <br>
  
