@@ -95,7 +95,7 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * Mastercard;<br>
 * American Express; or<br>
 * Discover.<br>
-<br>
+
 
 Please note that the application fee is **strictly non-refundable**, regardless the outcome of your licence application.
 <br><br>
