@@ -11,9 +11,10 @@ collection_name: information-for-public
 <br> Please click 
 <a href="/files/ML List as at 1 Jan 2020.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
 <br><br>
-<a href="/files/ML List as at 1 Jan 2020.pdf" target="_blank">here</a> for the list of indviduals whose insolvency practitioner's licences have either been revoked or suspended by the Licensing Officer under section 56 of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act").
-<br>
-<br><br>**Update of Particulars**<br>
+Please click <a href="/files/ML List as at 1 Jan 2020.pdf" target="_blank">here</a> for the list of indviduals whose insolvency practitioner's licences have either been revoked or suspended by the Licensing Officer under section 56 of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act").
+<br><br>
+
+**Update of Particulars**<br>
 
 Section 54(3) of the Act requires a licensed insolvency practitioner to notify the Licensing Officer of any change in particulars **within one week** after the change is made.
 <br><br>
