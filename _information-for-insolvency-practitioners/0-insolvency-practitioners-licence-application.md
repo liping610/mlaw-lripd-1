@@ -19,7 +19,7 @@ a) Solicitor;<br>
 b)	Public Accountant;<br>
 c)	Chartered Accountant; or<br>
 d)	Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
-<br><br><br>
+<br><br>
 
 **2. Relevant Work Experience**
 <br><br>
@@ -30,7 +30,7 @@ a) Acted as an insolvency practitioner in relation to a corporation or an indivi
 b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br><br>
 c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of an bankruptcy, under the Act or under corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.
-<br><br><br>
+<br><br>
 
 **3. “Fit and Proper”**
 <br><br>
