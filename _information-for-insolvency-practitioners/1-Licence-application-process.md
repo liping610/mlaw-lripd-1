@@ -19,7 +19,7 @@ Please attach a copy of the following documents when submitting your licence app
 a) Curriculum Vitae;
 <br>
 
-b)Evidence that you are a qualified within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
+b) Evidence that you are a qualified within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
 <br>
 * For **Solicitors** – Valid Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Valid Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
@@ -95,21 +95,18 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * Mastercard;<br>
 * American Express; or<br>
 * Discover.<br>
-<br><br>
+<br>
 
 Please note that the application fee is **strictly non-refundable**, regardless the outcome of your licence application.
 <br><br>
-
 **Processing Time**
 <br><br>
 We will take about 14 working days to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
 <br><br>
-
 **Notification of Outcome**
 <br><br>
 The outcome of your licence application will be made known to you via post and email. If your application is successful, a copy of the insolvency practitioner's licence will also be sent to you.
 <br><br>
-
 **Need Help?**
 <br><br>
 If you encounter difficulties or are not certain on how a licence application is submitted on the GoBuinsess licensing portal, please refer to our GoBusiness licensing portal guide for insolvency practitioners (hyperlink) for more information.
