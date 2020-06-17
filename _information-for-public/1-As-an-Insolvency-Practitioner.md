@@ -21,6 +21,7 @@ Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an
 <br>
 * Nominee of a voluntary arrangement. 
 <br><br>
+
 Section 48(1) of the Act prohibits any person from acting as an insolvency practitioner in relation to a corporation or an individual, or advertising, or in any way holding out, that he or she is willing to act as an insolvency practitioner in relation to a corporation or an individual without a licence. Any person found contravening or acting to the contrary shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 <br><br>
 An insolvency practitioner’s licence is <u>not</u> required if a person:
