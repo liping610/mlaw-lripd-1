@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Complaints on Insolvency Practitioners
-permalink: /information-for-public/Complaints-on-insolvency-practitioners/
-breadcrumb: Complaints on Insolvency Practitioners
+title: Filing a Complaint against an Insolvency Practitioner
+permalink: /information-for-public/filing-a-complaint-against-an-insolvency-practitioner/
+breadcrumb: Filing a Complaint against an Insolvency Practitioner
 collection_name: information-for-public
 ---
 
-**Complaints on Insolvency Practitioners**<br>
+**Filing a Complaint against an Insolvency Practitioner**<br>
 ---
 If you wish to file a complaint or have information relating to the improper conduct of an insolvency practitioner, please provide us with the details by completing the
 <a href="/files/Insolvency Practitioners Complaints Form.pdf" target="_blank">Insolvency Practitioners Complaints Form</a>
