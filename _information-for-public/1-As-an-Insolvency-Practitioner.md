@@ -30,11 +30,11 @@ a) wishes to be appointed as a liquidator in a members’ voluntary winding up c
 <br>
 b) intends to <u>only</u> administer insolvency or debt restructuring cases which had commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50).
 <br><br>
-**Transition to the Act**
+**<u>Transition to the Act</u>**
 <br><br>
-Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by MinLaw. This is **provided** that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
+Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by MinLaw. This is <u>provided</u> that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
 <br><br>
-**Scenario 1:** If you are an approved liquidator registered with Accounting and Corporate Regulatory Authority ("ACRA") but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
+**Scenario 1:** If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority ("ACRA") but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br>
  
 **Scenario 2:** If you are a public accountant, you will only be allowed to undertake appointments in judicial management, bankruptcy and voluntary arrangement cases commenced under the Act.
