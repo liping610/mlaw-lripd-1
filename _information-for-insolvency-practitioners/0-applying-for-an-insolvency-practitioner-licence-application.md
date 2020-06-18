@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Insolvency Practitioner's Licence Application
-permalink: /information-for-insolvency-practitioners/insolvency-practitioners-licence-application/
-breadcrumb: Insolvency Practitioners Licence Application
+title: Applying for an Insolvency Practitioner's Licence
+permalink: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
+breadcrumb: Applying for an Insolvency Practitioner's Licence
 collection_name: information-for-insolvency-practitioners
 ---
 
-Insolvency Practitioner's Licence Application
+**Applying for an Insolvency Practitioner's Licence**
 ---
 <br>
 To be eligible to hold an insolvency practitioner’s licence, an applicant must fulfil the following criteria:
@@ -16,9 +16,9 @@ To be eligible to hold an insolvency practitioner’s licence, an applicant must
 A "qualified person" is one who is a:
 <br><br>
 a) Solicitor;<br>
-b)	Public Accountant;<br>
-c)	Chartered Accountant; or<br>
-d)	Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
+b) Public Accountant;<br>
+c) Chartered Accountant; or<br>
+d) Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
 <br><br>
 
 **2. Relevant Work Experience**
