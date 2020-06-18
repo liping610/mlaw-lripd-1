@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Register Of Licensed Insolvency Practitioners
+title: Register of Licensed Insolvency Practitioners
 permalink: /information-for-public/register-of-licensed-insolvency-practitioners/
-breadcrumb: Register Of Licensed Insolvency Practitioners
+breadcrumb: Register of Licensed Insolvency Practitioners
 collection_name: information-for-public
 ---
 
