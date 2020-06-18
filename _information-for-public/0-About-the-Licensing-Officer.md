@@ -7,7 +7,6 @@ collection_name: information-for-public
 ---
 **About the Licensing Officer** <br>
 ---
-<br>
 The Licensing Officer is a public officer who oversees the licensing and regulation of insolvency practitioners in order to ensure the fair and responsible administration of insolvency and restructuring matters in Singapore.
 <br><br>
 The functions of the Licensing Officer include:
