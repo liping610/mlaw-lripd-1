@@ -8,7 +8,6 @@ collection_name: information-for-insolvency-practitioners
 
 **Applying for an Insolvency Practitioner's Licence**
 ---
-<br>
 To be eligible to hold an insolvency practitioner’s licence, an applicant must fulfil the following criteria:
 <br><br>
 **1. Qualified Person**
