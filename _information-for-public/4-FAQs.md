@@ -25,7 +25,7 @@ You may conduct the following paid insolvency searches via our <a href="https://
 <br><br>
 **3.	Can the Licensing Officer provide legal advice for corporate and individual insolvency matters?**
 <br><br>
-No. Please consult your solicitors for legal advice on such matters instead.<br>
+No. Please consult your solicitors for legal advice on such matters.<br>
 <br><br>
 
 **<u>Prospective/ Licensed Insolvency Practitioners</u>**
@@ -54,3 +54,18 @@ In the event that your application for an insolvency practitioner’s licence is
 <br><br>
 Please note that it is an offence under section 48(2) of the Act to act as an insolvency practitioner for an individual or corporation without a valid licence.
 <br>
+**6. Am I required to hold an insolvency practitioner’s licence to be appointed to act in cases commenced under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”)?**
+<br><br>
+Yes, you are required to hold a valid insolvency practitioner’s licence in order to be appointed to act in insolvency or debt-restructuring cases commenced under the Act. Failure to do so would constitute an offence under section 48(2) of the Act.
+<br><br>
+Section 527(1) of the Act, however, provides a 6-month transitional period effective from 30 June 2020  to 29 December 2020, that allows you to undertake insolvency or debt restructuring work commenced under the Act without an insolvency practitioner’s licence, while you apply to  MinLaw to be registered as an insolvency practitioner. This is also provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20).
+<br>
+*Scenario 1:* If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority (“ACRA”) but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
+<br><br>
+*Scenario 2:* If you are a public accountant, you will only be allowed to undertake appointments in judicial management, bankruptcy and voluntary arrangement cases commenced under the Act.
+<br><br>
+*Scenario 3:* If you are a qualified solicitor, you will only be allowed to undertake appointments in bankruptcy or voluntary arrangement cases commenced under the Act.
+<br><br>
+If you intend to undertake insolvency or debt restructuring appointments under the Act, you should submit your licence application early and within the transitional period with MinLaw to avoid acting without a valid insolvency practitioner's licence.
+<br><br>
+At the end of the transitional period, you must hold an insolvency practitioner’s licence before you are allowed to undertake new appointments, or continue acting in your appointment as an insolvency practitioner in insolvency or debt restructuring cases commenced under the Act.<br>
