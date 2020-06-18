@@ -17,9 +17,3 @@ Resources
 * <a href="https://sso.agc.gov.sg/SL/MA2008-S72-2009?DocDate=20181116" target="_blank">Moneylenders Rules</a>
 
 * <a href="https://sso.agc.gov.sg/SL/MA2008-S73-2009?DocDate=20150831" target="_blank">Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)</a>
-
-
-**3. Licence Conditions**<br>
-* [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf) (215KB)</a>
-
-* <a href="* [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf)" target="_blank">Licence Conditions</a>
