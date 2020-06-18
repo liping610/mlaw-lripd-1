@@ -69,10 +69,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
  </tr>
   
 </table><br>
-e) Documents relating to declaration(s) which you have stated “Yes” under the Declaration page; and
-<br>
 
-f) Any other relevant documents which you wish to provide.
 <br><br>
 **Validity of the Licence**
 <br><br>
