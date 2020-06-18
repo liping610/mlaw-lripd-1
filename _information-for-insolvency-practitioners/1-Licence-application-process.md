@@ -70,7 +70,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
   
 </table><br>
 
-<br>
+
 **Validity of the Licence**
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30th June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
@@ -108,5 +108,6 @@ You will be notified of the outcome of your licence application via post and ema
 <br><br>
 If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBuinsess Licensing Portal, please refer to our GoBusiness licensing Portal Guide for insolvency practitioners (link to PDF) for more information.
 <br><br>
+
 <img src="/images/Table-contacts.png">
 <br>
