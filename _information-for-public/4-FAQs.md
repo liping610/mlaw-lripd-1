@@ -52,8 +52,8 @@ No. You will need to apply for the insolvency practitioner’s licence and satis
 <br><br>
 In the event that your application for an insolvency practitioner’s licence is not successful, you will no longer be allowed to continue the administration of the insolvency or debt restructuring cases which had commenced under the Act. Also, the vacancy in the appointment(s) arising from the inability to obtain a licence will need to be filled according to the relevant provisions in the Act.
 <br><br>
-Please note that it is an offence under section 48(2) of the Act to act as an insolvency practitioner for an individual or corporation without a valid licence.
-<br>
+Please note that it is an offence under section 48(2) of the Act to act as an insolvency practitioner for an individual or corporation without a valid licence.<br>
+<br><br>
 **6. Am I required to hold an insolvency practitioner’s licence to be appointed to act in cases commenced under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”)?**
 <br><br>
 Yes, you are required to hold a valid insolvency practitioner’s licence in order to be appointed to act in insolvency or debt-restructuring cases commenced under the Act. Failure to do so would constitute an offence under section 48(2) of the Act.
