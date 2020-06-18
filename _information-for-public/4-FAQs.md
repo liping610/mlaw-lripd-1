@@ -10,7 +10,7 @@ collection_name: information-for-public
 **FAQs**
 ---
 
-<u>**General**</u>
+**<u>General</u>**
 <br><br>
 **1.	What is the role of Licensing & Regulation of Insolvency Practitioners Division?**
 <br><br>
@@ -28,7 +28,7 @@ You may conduct the following paid insolvency searches via our <a href="https://
 No. Please consult your solicitors for legal advice on such matters instead.<br>
 <br><br>
 
-<u>**Prospective/ Licensed Insolvency Practitioners**</u>
+**<u>Prospective/ Licensed Insolvency Practitioners</u>**
 <br><br><br>
 **1. Once the Insolvency Restructuring and Dissolution Act 2018 (“the Act”) commences, what will happen to insolvency and debt restructuring cases commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50), but have yet to complete administration or conclude?**
 <br><br>
