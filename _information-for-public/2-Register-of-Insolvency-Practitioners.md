@@ -9,6 +9,7 @@ collection_name: information-for-public
 **Register of Insolvency Practitioners**<br>
 ---
 Please check back for the list of licensed insolvency practitioners in Singapore.
+<br><br>
 
 **Update of Particulars**<br>
 
