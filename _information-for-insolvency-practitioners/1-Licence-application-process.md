@@ -78,13 +78,14 @@ Thereafter, a **licence that is renewed** will continue to be valid for a furthe
 <br><br>
 **Licence Renewal Period**
 <br><br>
-A renewal application can only be submitted via GoBusiness licensing portal from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an insolvency practitioner, you are advised to submit your renewal application early. 
+A renewal application can only be submitted via GoBusiness Licensing Portal from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an insolvency practitioner, you are advised to submit your renewal application early. 
 <br><br>
 If you fail to submit your renewal within the stipulated period, you are required to submit your application as a **new** applicant and be subject to the corresponding application fee that applies to it instead.
 <br><br>
 **Application Fees**
 <br><br> 
-An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence, while a fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence. Payments are made through the GoBusiness portal using the following electronic payment modes:
+An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence, while a fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence. 
+<br><br>Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
 <br>
 * PayPal;<br>
 * VISA;<br>
