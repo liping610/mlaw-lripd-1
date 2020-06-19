@@ -33,7 +33,7 @@ c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy a
 
 **3. “Fit and Proper”**
 <br><br>
-In determining whether you are a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
+In determining whether an applicant is a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
 <br><br>
 a) Whether an applicant has ever had any approved licence(s) issued by the Accounting and Corporate Regulatory Authority ("ACRA") and / or the Licensing Officer revoked or suspended;
 <br><br>
