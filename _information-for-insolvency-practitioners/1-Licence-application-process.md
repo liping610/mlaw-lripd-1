@@ -60,7 +60,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
 </td>
  </tr>
  <tr>
-  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under corresponding previously law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
+  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
   <td>•	Documents evidencing that the Applicant has acted  as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.<br>
 
 •	Written declaration from the Applicant declaring the case references of all recent bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years. The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
