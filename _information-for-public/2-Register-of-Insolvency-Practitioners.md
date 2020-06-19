@@ -15,7 +15,7 @@ Please check back for the list of licensed insolvency practitioners in Singapore
 
 Section 54(3) of the Act requires a licensed insolvency practitioner to notify the Licensing Officer of any change in particulars **within one week** after the change is made.
 <br><br>
-Please update the change(s) via the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> by clicking under "Licence Application" and "Amend Existing Licence". Please refer to our step-by-step Licence Application Guide (hyperlink) for more information.
+Please update the change(s) via the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> by clicking under "Licence Application" and "Amend Existing Licence". Please refer to our step-by-step <a href="/files/Licence Application Guide for Insolvency Practitioners (12June2020).pdf" target="_blank">Licence Application Guide</a> for more information.
 <br><br>
 
 **Cancellation of Insolvency Practitioner’s Licence**<br>
