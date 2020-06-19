@@ -19,7 +19,7 @@ Please attach a copy of the following documents when submitting your licence app
 a) Curriculum Vitae;
 <br>
 
-b) Evidence that you are a qualified within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
+b) Evidence that you are a qualified person within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
 <br>
 * For **Solicitors** – Valid Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Valid Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
