@@ -14,7 +14,6 @@ a)	An insolvency practitioner’s licence that is issued to a person who is a pu
 <br><br>
 b)	An insolvency practitioner’s licence that is issued to a person who is a solicitor will be confined to undertake insolvency appointments in bankruptcy and voluntary arrangement cases only. 
 <br><br><br>
-
 **Licence Conditions**
 <br><br>
 Under section 52 of the Act, the Licensing Officer may impose conditions which he considers requisite or expedient to be complied with by the licences. This is in addition to the statutory requirements under the Act (including the subsidiary legislation).
