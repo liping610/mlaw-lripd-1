@@ -80,7 +80,7 @@ Thereafter, a **licence that is renewed** will continue to be valid for a furthe
 <br><br>
 A renewal application can only be submitted via GoBusiness licensing portal from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an insolvency practitioner, you are advised to submit your renewal application early. 
 <br><br>
-If you fail to submit your renewal within the stipulated period, you will be required to submit your application as a **new** applicant and be subject to the corresponding application fee that applies to it instead.
+If you fail to submit your renewal within the stipulated period, you are required to submit your application as a **new** applicant and be subject to the corresponding application fee that applies to it instead.
 <br><br>
 **Application Fees**
 <br><br> 
