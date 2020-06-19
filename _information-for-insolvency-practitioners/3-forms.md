@@ -8,6 +8,6 @@ collection_name: information-for-insolvency-practitioners
 
 **Forms**<br>
 ---
-Prescribed forms under the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020 will be available from 30 June 2020.
+Prescribed forms under the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020 will be available on our website from 30 June 2020.
 <br><br>
 
