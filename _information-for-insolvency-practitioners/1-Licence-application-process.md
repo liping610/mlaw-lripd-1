@@ -50,7 +50,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
 </td>
  </tr>
  <tr>
-  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
+  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
 </td>
   <td>Written confirmation from the person acting as an insolvency practitioner and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:<br>
 
