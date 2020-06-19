@@ -49,11 +49,11 @@ f) Whether an applicant has previously been adjudged a bankrupt in Singapore or 
 <br><br>
 g) Whether an applicant has ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
 <br><br>
-h) Whether an applicant has ever been, or is presently subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
+h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br><br>
-i) Whether an applicant has ever been convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
+i) Whether an applicant has been previously convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
 <br><br>
-j) Whether an applicant has ever been a subject of any investigation(s) by governmental, statutory or professional bodies in respect of any offence involving dishonesty or any complaint against your professional conduct; and 
+j) Whether an applicant has previously been the subject of any investigation(s) by governmental, statutory or professional bodies in respect of any offence involving dishonesty or any complaint against or involving his / her professional conduct; and 
 <br><br>
-k) Whether an applicant has ever been refused entry to any professional body or had your membership or registration with such professional body cancelled, revoked or suspended;
+k) Whether an applicant has ever been refused membership to any professional body, or previously had his/her membership or registration with such professional body cancelled, revoked or suspended.
 <br>
