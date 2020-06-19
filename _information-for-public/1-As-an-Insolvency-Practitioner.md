@@ -7,7 +7,7 @@ collection_name: information-for-public
 ---
 **As an Insolvency Practitioner** <br>
 ---
-Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an insolvency practitioner’s licence is required if an individual wishes to undertake the following appointment(s):
+Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an insolvency practitioner’s licence is required if a person wishes to undertake the following appointment(s):
 <br><br> 
 * Liquidator or provisional liquidator of the corporation;
 <br>
@@ -32,7 +32,7 @@ b) intends to <u>only</u> administer insolvency or debt restructuring cases whic
 <br><br>
 **<u>Transition to the Act</u>**
 <br><br>
-Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by MinLaw. This is <u>provided</u> that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
+Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is <u>provided</u> that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
 <br><br>
 **Scenario 1:** If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority ("ACRA") but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br>
@@ -43,7 +43,7 @@ Section 527(1) of the Act provides a 6-month transitional period (effective from
 **Scenario 3:** If you are a qualified solicitor, you will only be allowed to undertake appointments in bankruptcy or voluntary arrangement cases commenced under the Act.
 <br><br>
 
-A person who intends to undertake insolvency officeholder appointments under the Act should submit his licence application early and within the transitional period with MinLaw to avoid acting without a valid insolvency practitioner's licence.
+A person who intends to undertake insolvency officeholder appointments under the Act should submit his licence application early and within the transitional period with the Licensing Officer to avoid acting without a valid insolvency practitioner's licence.
 <br><br>
 At the end of the transitional period, a person who has undertaken such insolvency officeholder appointments in the transitional period must ensure that he holds an insolvency practitioner’s licence to undertake new and / or continue acting in existing insolvency or debt restructuring appointments commenced under the Act.
 <br>
