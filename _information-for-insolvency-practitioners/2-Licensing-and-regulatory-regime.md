@@ -20,4 +20,4 @@ Under section 52 of the Act, the Licensing Officer may impose conditions which h
 <br><br>
 Licence conditions are a set of administrative rules that a licensee must abide by if he wishes to (or continues to) hold the licence to act as an insolvency practitioner, and may apply to all licensees, a specified class of licensees or a specific licensee. It also seeks to establish a common and minimum set of standards of professional conduct a licensee is expected to uphold when undertaking insolvency work under the Act.
 <br><br>
-Please click <a href="* [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf)" target="_blank">HERE</a> for the licence conditions that are required to be complied by all licensees. 
+Please click <a href="* [Licence Conditions](/files/Licence Conditions on IP.pdf)" target="_blank">HERE</a> for the licence conditions that are required to be complied by all licensees. 
