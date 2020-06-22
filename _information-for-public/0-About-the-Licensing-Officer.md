@@ -13,6 +13,6 @@ The functions of the Licensing Officer include:
 <br><br>
 * Granting and renewing insolvency practitioner’s licences; <br>
 * Maintaining a register of licensed insolvency practitioners in Singapore; <br>
-* Promoting and maintaining high standards of the insolvency practitioners profession by ensuring that only appropriately qualified, fit and proper persons are admitted to the industry; <br>
+* Promoting and maintaining the standards of the insolvency practitioners profession by ensuring that only appropriately qualified, fit and proper persons are admitted to the industry; <br>
 * Investigating complaints made against insolvency practitioners in respect of their conduct; and <br>
 * Where necessary, taking the appropriate enforcement action against an errant insolvency practitioner. <br>
