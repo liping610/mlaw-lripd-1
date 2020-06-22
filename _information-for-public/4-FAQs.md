@@ -58,7 +58,7 @@ Please note that it is an offence under section 48(2) of the Act to act as an in
 <br><br>
 Yes, you are required to hold a valid insolvency practitioner’s licence in order to be appointed to act in insolvency or debt restructuring cases commenced under the Act. Failure to do so would constitute an offence under section 48(2) of the Act.
 <br><br>
-Section 527(1) of the Act, however, provides a 6-month transitional period effective from 30 June 2020  to 29 December 2020, that allows you to undertake insolvency or debt restructuring work commenced under the Act without an insolvency practitioner’s licence, while you apply to  the Licensing Officer to be registered as an insolvency practitioner. This is also provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20).
+Section 527(1) of the Act, however, provides a 6-month transitional period that allows you to undertake insolvency or debt restructuring work commenced under the Act without an insolvency practitioner’s licence, while you apply to  the Licensing Officer to be registered as an insolvency practitioner. This is also provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20).
 <br><br>
 *Scenario 1:* If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority (“ACRA”) but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br><br>
