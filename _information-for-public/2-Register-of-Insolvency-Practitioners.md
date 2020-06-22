@@ -20,5 +20,5 @@ Please update the change(s) via the Government’s <a href="https://www.gobusine
 
 **Cancellation of Insolvency Practitioner’s Licence**<br>
 
-You may cancel your insolvency practitioner’s licence via the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a>. However, please ensure that you do not have any ongoing insolvency or debt-restructuring cases under your care before submitting the cancellation request.
+You may cancel your insolvency practitioner’s licence via the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a>. However, please ensure that you do not have any ongoing insolvency or debt restructuring cases under your care before submitting the cancellation request.
 <br>
