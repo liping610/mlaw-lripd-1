@@ -8,10 +8,6 @@ collection_name: information-for-insolvency-practitioners
 
 **Forms**<br>
 ---
-**a. Form XX1 - Notice of Appeal**<br>
-* Please click [here](/files/ML List as at 1 Jan 2020.pdf).
-
+Prescribed forms under the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020 will be available on our website from 30 June 2020.
 <br><br>
-**b. Form XX2- Petition of Appeal**<br>
-* Please click [here](/files/ML List as at 1 Jan 2020.pdf).
-<br>
+

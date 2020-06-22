@@ -11,44 +11,41 @@
     url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   - title: Our Management
     url: https://www.mlaw.gov.sg/about-us/our-management/
-
   - title: Organisation Structure
     url: https://www.mlaw.gov.sg/about-us/organisation-structure/
-
+  - title: Our Legal System
+    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
   - title: What We Do
     url: https://www.mlaw.gov.sg/about-us/what-we-do/
-
-  - title: FAQs
-    url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
-
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
 
 - title: Information For Public
   url: /information-for-public/about-the-licensing-officer/
   sub-links:
-  - title: About The Licensing Officer
+  - title: About the Licensing Officer
     url: /information-for-public/about-the-licensing-officer/
-  - title: Acting As Insolvency Practitioners
-    url: /information-for-public/acting-as-insolvency-practitioners/
-  - title: Register Of Licensed Insolvency Practitioner
-    url: /information-for-public/register-of-licensed-insolvency-practitioner/
-  - title: Feedback On Insolvency Pracactitioners
-    url: /information-for-public/feedback-on-insolvency-pracactitioners/
+  - title: As an Insolvency Practitioner
+    url: /information-for-public/as-an-insolvency-practitioner/
+  - title: Register of Insolvency Practitioners
+    url: /information-for-public/register-of-insolvency-practitioners/
+  - title: Filing a Complaint against an Insolvency Practitioner
+    url: /information-for-public/filing-a-complaint-against-an-insolvency-practitioner/
+  - title: FAQs
+    url: /information-for-public/FAQs/
 - title: Information For Insolvency Practitioners
-  url: /information-for-insolvency-practitioners/insolvency-practitioners-license-application/
+  url: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
   sub-links:
-  - title: Insolvency Practitioners Licecense Application
-    url: /information-for-insolvency-practitioners/insolvency-practitioners-license-application/
-  - title: Application Process
-    url: /information-for-insolvency-practitioners/application-process/
-  - title: Need Help
-    url: /information-for-insolvency-practitioners/need-help/
+  - title: Applying for an Insolvency Practitioner's Licence
+    url: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
+  - title: Licence Application Process
+    url: /information-for-insolvency-practitioners/licence-application-process/
+  - title: Licensing and Regulatory Regime
+    url: /information-for-insolvency-practitioners/licensing-and-regulatory-regime/
   - title: Forms
     url: /information-for-insolvency-practitioners/forms/
   - title: Resources
     url: /information-for-insolvency-practitioners/resources/
-
 - title: News
   url: "https://www.mlaw.gov.sg/news/"
   external: true
