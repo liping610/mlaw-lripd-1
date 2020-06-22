@@ -8,7 +8,7 @@ collection_name: information-for-insolvency-practitioners
 
 **Licence Application Process**
 ---
-**<u>Where to Apply</u>**
+**Where to Apply**
 <br><br>
 Please submit your application for the insolvency practitioner’s licence through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> using either your SINGPASS (For Singaporeans / Singapore Permanent Residents) or GoBusiness Licence ID (For foreigners).
 <br><br>
