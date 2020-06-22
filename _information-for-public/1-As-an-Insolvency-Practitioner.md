@@ -30,7 +30,7 @@ a) wishes to be appointed as a liquidator in a members’ voluntary winding up c
 <br>
 b) intends to <u>only</u> administer insolvency or debt restructuring cases which had commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50).
 <br><br>
-**<u>Transition to the Act</u>**
+**Transition to the Act**
 <br><br>
 Section 527(1) of the Act provides a 6-month transitional period (effective from  30 June 2020 to 29 December 2020) that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is <u>provided</u> that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
 <br><br>
