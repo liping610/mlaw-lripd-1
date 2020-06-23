@@ -33,8 +33,10 @@ No. Please consult your solicitors for legal advice on such matters.<br>
 **1. Once the Insolvency Restructuring and Dissolution Act 2018 (“the Act”) commences, what will happen to insolvency and debt restructuring cases commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50), but have yet to complete administration or conclude?**
 <br><br>
 The Bankruptcy Act (Cap. 20) and Companies Act (Cap. 20) will continue to apply to:
-<br> a) Existing insolvency and debt restructuring cases which commenced under the Bankruptcy Act (Cap. 20) and Companies Act (Cap. 50); and
-<br> b) Pending Court applications made before the date of commencement of the Act.<br>
+<br><br> 
+a) Existing insolvency and debt restructuring cases which commenced under the Bankruptcy Act (Cap. 20) and Companies Act (Cap. 50); and
+<br> 
+b) Pending Court applications made before the date of commencement of the Act.<br>
 <br><br>
 **2.	Am I required to hold an insolvency practitioner’s licence in order to continue to administer insolvency or debt restructuring cases under my care  which had commenced under the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50), after the commencement of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act")?**
 <br><br>
@@ -58,7 +60,7 @@ Please note that it is an offence under section 48(2) of the Act to act as an in
 <br><br>
 Yes, you are required to hold a valid insolvency practitioner’s licence in order to be appointed to act in insolvency or debt restructuring cases commenced under the Act. Failure to do so would constitute an offence under section 48(2) of the Act.
 <br><br>
-Section 527(1) of the Act, however, provides a 6-month transitional period effective from 30 June 2020  to 29 December 2020, that allows you to undertake insolvency or debt restructuring work commenced under the Act without an insolvency practitioner’s licence, while you apply to  the Licensing Officer to be registered as an insolvency practitioner. This is also provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20).
+Section 527(1) of the Act, however, provides a 6-month transitional period that allows you to undertake insolvency or debt restructuring work commenced under the Act without an insolvency practitioner’s licence, while you apply to  the Licensing Officer to be registered as an insolvency practitioner. This is also provided that you possess the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20).
 <br><br>
 *Scenario 1:* If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority (“ACRA”) but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br><br>
