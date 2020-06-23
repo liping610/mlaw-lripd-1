@@ -33,8 +33,10 @@ No. Please consult your solicitors for legal advice on such matters.<br>
 **1. Once the Insolvency Restructuring and Dissolution Act 2018 (“the Act”) commences, what will happen to insolvency and debt restructuring cases commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50), but have yet to complete administration or conclude?**
 <br><br>
 The Bankruptcy Act (Cap. 20) and Companies Act (Cap. 20) will continue to apply to:
-<br> a) Existing insolvency and debt restructuring cases which commenced under the Bankruptcy Act (Cap. 20) and Companies Act (Cap. 50); and
-<br> b) Pending Court applications made before the date of commencement of the Act.<br>
+<br><br> 
+a) Existing insolvency and debt restructuring cases which commenced under the Bankruptcy Act (Cap. 20) and Companies Act (Cap. 50); and
+<br> 
+b) Pending Court applications made before the date of commencement of the Act.<br>
 <br><br>
 **2.	Am I required to hold an insolvency practitioner’s licence in order to continue to administer insolvency or debt restructuring cases under my care  which had commenced under the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50), after the commencement of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act")?**
 <br><br>
