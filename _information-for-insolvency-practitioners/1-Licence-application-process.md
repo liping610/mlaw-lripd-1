@@ -14,7 +14,7 @@ Please submit your application for the insolvency practitioner’s licence throu
 <br><br>
 **Documents Required**
 <br><br>
-Please attach a copy of the following documents when submitting your licence application online (softcopy will suffice):
+Please attach a copy of the following documents when submitting your licence application online:
 <br><br>
 a) Curriculum Vitae;
 <br>
