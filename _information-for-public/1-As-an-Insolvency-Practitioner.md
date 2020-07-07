@@ -24,15 +24,15 @@ Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an
 
 Section 48(1) of the Act prohibits any person from acting as an insolvency practitioner in relation to a corporation or an individual, or advertising, or in any way holding out, that he or she is willing to act as an insolvency practitioner in relation to a corporation or an individual without a licence. Any person found contravening or acting to the contrary shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 <br><br>
-An insolvency practitioner’s licence is <u>not</u> required if a person:
+An insolvency practitioner’s licence is **not** required if a person:
 <br><br>
 a) wishes to be appointed as a liquidator in a members’ voluntary winding up case, or a scheme manager in a scheme of arrangement case commenced under the Act; or
 <br>
-b) intends to <u>only</u> administer insolvency or debt restructuring cases which had commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50).
+b) intends to **only** administer insolvency or debt restructuring cases which had commenced under the Bankruptcy Act (Cap. 20) and / or Companies Act (Cap. 50).
 <br><br>
 **Transition to the Act**
 <br><br>
-Section 527(1) of the Act provides a 6-month transitional period that allows a person to undertake insolvency or debt restructuring work commenced under the Act <u>without holding an insolvency practitioner’s licence</u>, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is <u>provided</u> that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
+Section 527(1) of the Act provides a 6-month transitional period that allows a person to undertake insolvency or debt restructuring work commenced under the Act **without holding an insolvency practitioner’s licence**, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is **provided** that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
 <br><br>
 **Scenario 1:** If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority ("ACRA") but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br>
