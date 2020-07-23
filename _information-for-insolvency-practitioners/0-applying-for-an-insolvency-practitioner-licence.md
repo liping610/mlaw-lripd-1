@@ -15,8 +15,8 @@ To be eligible to hold an insolvency practitioner’s licence, an applicant must
 A "qualified person" is one who is a:
 <br><br>
 a) Solicitor;<br><br>
-b) Public Accountant;<br><br>
-c) Chartered Accountant; or<br><br>
+b) Public accountant;<br><br>
+c) Chartered accountant; or<br><br>
 d) Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
 <br><br>
 
