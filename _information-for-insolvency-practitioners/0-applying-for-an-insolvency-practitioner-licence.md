@@ -55,5 +55,5 @@ i) Whether an applicant has previously been convicted of an offence under the Ac
 <br><br>
 j) Whether an applicant has previously been the subject of any investigation(s) by governmental, statutory or professional bodies in respect of any offence involving dishonesty or any complaint against or involving his / her professional conduct; and 
 <br><br>
-k) Whether an applicant has ever been refused membership to any professional body, or previously had his/her membership or registration with such professional body cancelled, revoked or suspended.
+k) Whether an applicant has ever been refused membership to any professional body, or previously had his / her membership or registration with such professional body cancelled, revoked or suspended.
 <br>
