@@ -15,8 +15,8 @@ To be eligible to hold an insolvency practitioner’s licence, an applicant must
 A "qualified person" is one who is a:
 <br><br>
 a) Solicitor;<br><br>
-b) Public Accountant;<br><br>
-c) Chartered Accountant; or<br><br>
+b) Public accountant;<br><br>
+c) Chartered accountant; or<br><br>
 d) Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
 <br><br>
 
@@ -39,7 +39,7 @@ a) Whether an applicant has ever had any approved licence(s) issued by the Accou
 <br><br>
 b) Whether an applicant has previously been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 <br><br>
-c) Whether an applicant has previously had a judgment entered against him/her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
+c) Whether an applicant has previously had a judgment entered against him/her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his / her part;
 <br><br>
 d) Whether an applicant has previously received, or is presently receiving any treatment for any mental disorder;
 <br><br>
@@ -47,13 +47,13 @@ e) Whether an applicant is presently an undischarged bankrupt;
 <br><br>
 f) Whether an applicant has previously been adjudged a bankrupt in Singapore or under the laws of any foreign country, but has since been discharged from bankruptcy in Singapore or in that foreign country;
 <br><br>
-g) Whether an applicant has ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
+g) Whether an applicant has ever been the subject of a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
 <br><br>
-h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
+h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and / or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br><br>
 i) Whether an applicant has previously been convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
 <br><br>
 j) Whether an applicant has previously been the subject of any investigation(s) by governmental, statutory or professional bodies in respect of any offence involving dishonesty or any complaint against or involving his / her professional conduct; and 
 <br><br>
-k) Whether an applicant has ever been refused membership to any professional body, or previously had his/her membership or registration with such professional body cancelled, revoked or suspended.
+k) Whether an applicant has ever been refused membership to any professional body, or previously had his / her membership or registration with such professional body cancelled, revoked or suspended.
 <br>

@@ -72,7 +72,7 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
 
 **Validity of the Licence**
 <br><br>
-A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30th June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
+A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
 Thereafter, a **licence that is renewed** will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
 <br><br>
