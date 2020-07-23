@@ -16,4 +16,4 @@ Resources
 
 **2. Infographic on the new licensing and regulatory regime for insolvency practitioners**<br>
 
-*<a href="/files/Infographic for Licensing of IPs.pdf" target="_blank">Infographic on the new licensing and regulatory regime for insolvency practitioners</a>
+* <a href="/files/Infographic for Licensing of IPs.pdf" target="_blank">Infographic on the new licensing and regulatory regime for insolvency practitioners</a>
