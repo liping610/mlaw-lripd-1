@@ -39,7 +39,7 @@ a) Whether an applicant has ever had any approved licence(s) issued by the Accou
 <br><br>
 b) Whether an applicant has previously been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 <br><br>
-c) Whether an applicant has previously had a judgment entered against him/her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his/her part;
+c) Whether an applicant has previously had a judgment entered against him/her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his / her part;
 <br><br>
 d) Whether an applicant has previously received, or is presently receiving any treatment for any mental disorder;
 <br><br>
@@ -49,7 +49,7 @@ f) Whether an applicant has previously been adjudged a bankrupt in Singapore or 
 <br><br>
 g) Whether an applicant has ever been the subject of a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
 <br><br>
-h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
+h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and / or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br><br>
 i) Whether an applicant has previously been convicted of an offence under the Act, the Bankruptcy Act (Cap. 20) or Companies Act (Cap. 50); 
 <br><br>
