@@ -8,12 +8,6 @@ collection_name: information-for-insolvency-practitioners
 
 Resources
 ------
-**1. Insolvency, Restructuring and Dissolution Act 2018**<br>
-
-* <a href="https://sso.agc.gov.sg/Acts-Supp/40-2018/Published/20181107?DocDate=20181107" target="_blank">Insolvency, Restructuring and Dissolution Act 2018</a>
-
+1. <a href="https://sso.agc.gov.sg/Acts-Supp/40-2018/Published/20181107?DocDate=20181107" target="_blank">Insolvency, Restructuring and Dissolution Act 2018</a>
 <br><br>
-
-**2. Infographic on the new licensing and regulatory regime for insolvency practitioners**<br>
-
-* <a href="/files/Infographic for Licensing of IPs.pdf" target="_blank">Infographic on the new licensing and regulatory regime for insolvency practitioners</a>
+2. <a href="/files/Infographic for Licensing of IPs.pdf" target="_blank">Infographic on the new licensing and regulatory regime for insolvency practitioners</a>
