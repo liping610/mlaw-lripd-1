@@ -47,7 +47,7 @@ e) Whether an applicant is presently an undischarged bankrupt;
 <br><br>
 f) Whether an applicant has previously been adjudged a bankrupt in Singapore or under the laws of any foreign country, but has since been discharged from bankruptcy in Singapore or in that foreign country;
 <br><br>
-g) Whether an applicant has ever been subject to a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
+g) Whether an applicant has ever been the subject of a disqualification order made under section 149 of the Companies Act (Cap. 50) or a similar order under the laws of any foreign country;
 <br><br>
 h) Whether an applicant has previously been, or is presently subject to a Voluntary Arrangement and/or Debt Repayment Scheme under the Act or the Bankruptcy Act (Cap. 20), or a similar arrangement or scheme outside Singapore; 
 <br><br>
