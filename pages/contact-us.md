@@ -40,6 +40,7 @@ You can send us your feedback and enquiries on the following issues:
 * Exemptions for Admission to the Singapore Bar
 * General Enquiries
 * Anti-Money Laundering/ Countering the Financing of Terrorism
+* Licensing & Regulation of Insolvency Practitioners Division
 
 <div class="image" style="padding-bottom: 16px; margin-right: 10px;">
   <a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png/" style="width: 300px; float: left;"></a>
@@ -85,4 +86,4 @@ Enquiry Line Operating Hours
 Monday to Friday: 8:30am to 5:30pm<br>
 (Closed on Weekends & Public Holidays)
 
-<p class="right-side-updated">Last updated on 11 Jul 2019</p> 
+<p class="right-side-updated">Last updated on 28 July 2020</p> 
