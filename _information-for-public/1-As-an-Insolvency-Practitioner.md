@@ -32,7 +32,7 @@ b) intends to **only** administer insolvency or debt restructuring cases which h
 <br><br>
 **Transition to the Act**
 <br><br>
-Section 527(1) of the Act provides a 6-month transitional period that allows a person to undertake insolvency or debt restructuring work commenced under the Act **without holding an insolvency practitioner’s licence**, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is **provided** that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
+Section 527(1) of the Act provides a 6-month transitional period (effective from 30 July 2020 to 30 January 2021) that allows a person to undertake insolvency or debt restructuring work commenced under the Act **without holding an insolvency practitioner’s licence**, whilst his application for an insolvency practitioner's licence is being considered by the Licensing Officer. This is **provided** that he possesses the necessary qualifications to do the same under the Companies Act (Cap. 50) and / or Bankruptcy Act (Cap. 20):
 <br><br>
 **Scenario 1:** If you are an approved liquidator registered with the Accounting and Corporate Regulatory Authority ("ACRA") but not a public accountant, you will only be allowed to undertake appointments in winding up and receivership cases commenced under the Act.
 <br>
