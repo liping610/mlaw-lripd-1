@@ -17,7 +17,7 @@ A "qualified person" is one who is a:
 a) Solicitor;<br><br>
 b) Public accountant;<br><br>
 c) Chartered accountant; or<br><br>
-d) Possess such other qualifications as the Ministry may prescribe by order in the Gazette.
+d) Possess such other qualifications as the Minister may prescribe by order in the Gazette.
 <br><br>
 
 **2. Relevant Work Experience**
