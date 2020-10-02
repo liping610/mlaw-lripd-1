@@ -1,7 +1,9 @@
 ---
-title: Insolvency Practitioner
-permalink: /general-information/insolvency practitioner/
+title: 'Insolvency Practitioner'
+permalink: '/general-information/insolvency practitioner/'
+
 ---
+
 
 <div class="image">
  <img src="/images/cut.jpg" alt="Bankruptcy2.1" title="Bankruptcy2.1">
