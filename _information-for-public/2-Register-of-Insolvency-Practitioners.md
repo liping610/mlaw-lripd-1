@@ -9,7 +9,7 @@ collection_name: information-for-public
 **Register of Insolvency Practitioners**<br>
 ---
 Please click 
-<a href="/files/Register_of_Licensed_Insolvency_Practitioners_2020-08-31.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
+<a href="/files/Register_of_Licensed_Insolvency_Practitioners_2020-09-30.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
 <br>
 
 **Update of Particulars**<br>
