@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Who is the Licensing Officer?
+title: 'Who is the Licensing Officer?'
 permalink: /general-information/who-is-the-licensing-officer/
-breadcrumb: Who is the Licensing Officer?
-collection_name: general-information
+breadcrumb: 'Who is the Licensing Officer?'
+
 ---
+
 
 <br>###**Who is the Licensing Officer?** <br>
 ---
