@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Licensing and Regulatory Regime
+title: 'Licensing and Regulatory Regime'
 permalink: /information-for-insolvency-practitioners/licensing-and-regulatory-regime/
-breadcrumb: Licensing and Regulatory Regime
-collection_name: information-for-insolvency-practitioners
+breadcrumb: 'Licensing and Regulatory Regime'
+
 ---
+
 
 **Licensing and Regulatory Regime**
 ---
