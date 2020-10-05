@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: As an Insolvency Practitioner
+title: 'As an Insolvency Practitioner'
 permalink: /information-for-public/as-an-insolvency-practitioner/
-breadcrumb: As an Insolvency Practitioner
-collection_name: information-for-public
+breadcrumb: 'As an Insolvency Practitioner'
+
 ---
+
 **As an Insolvency Practitioner** <br>
 ---
 Under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”), an insolvency practitioner’s licence is required if a person wishes to undertake the following appointment(s):

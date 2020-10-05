@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Resources
 permalink: /information-for-insolvency-practitioners/resources/
 breadcrumb: Resources
-collection_name: information-for-insolvency-practitioners
+
 ---
+
 
 Resources
 ------

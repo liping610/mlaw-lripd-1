@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Filing a Complaint against an Insolvency Practitioner
+title: 'Filing a Complaint against an Insolvency Practitioner'
 permalink: /information-for-public/filing-a-complaint-against-an-insolvency-practitioner/
-breadcrumb: Filing a Complaint against an Insolvency Practitioner
-collection_name: information-for-public
+breadcrumb: 'Filing a Complaint against an Insolvency Practitioner'
+
 ---
+
 
 **Filing a Complaint against an Insolvency Practitioner**<br>
 ---

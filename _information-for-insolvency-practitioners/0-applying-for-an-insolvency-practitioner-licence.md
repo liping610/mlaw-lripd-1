@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Applying for an Insolvency Practitioner's Licence
+title: 'Applying for an Insolvency Practitioner''s Licence'
 permalink: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
-breadcrumb: Applying for an Insolvency Practitioner's Licence
-collection_name: information-for-insolvency-practitioners
+breadcrumb: 'Applying for an Insolvency Practitioner''s Licence'
+
 ---
+
 
 **Applying for an Insolvency Practitioner's Licence**
 ---
