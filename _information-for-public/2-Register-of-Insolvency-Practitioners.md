@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Register of Insolvency Practitioners
+title: 'Register of Insolvency Practitioners'
 permalink: /information-for-public/register-of-insolvency-practitioners/
-breadcrumb: Register of Insolvency Practitioners
-collection_name: information-for-public
+breadcrumb: 'Register of Insolvency Practitioners'
+
 ---
+
 
 **Register of Insolvency Practitioners**<br>
 ---

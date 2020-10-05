@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Register Of Licensed Insolvency Practitioners
+title: 'Register Of Licensed Insolvency Practitioners'
 permalink: /general-information/register-of-licensed-insolvency-practitioners/
-breadcrumb: Register Of Licensed Insolvency Practitioners
-collection_name: general-information
+breadcrumb: 'Register Of Licensed Insolvency Practitioners'
+
 ---
+
 
 
 ***Register of Licensed Insolvency Practitioners in Singapore***<br>
