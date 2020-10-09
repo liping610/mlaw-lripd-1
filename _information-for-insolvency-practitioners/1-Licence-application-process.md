@@ -98,7 +98,7 @@ Please note that the application fee is **strictly non-refundable**, regardless 
 <br><br>
 **Processing Time**
 <br><br>
-We will take about 14 working days to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
+Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
 <br><br>
 **Notification of Outcome**
 <br><br>
