@@ -94,7 +94,7 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * Discover.<br>
 
 
-Please note that the application fee is **strictly non-refundable**, regardless of the outcome of your licence application.
+Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application.
 <br><br>
 **Processing Time**
 <br><br>
