@@ -18,11 +18,9 @@ a) Solicitor<br><br>
 b) Public accountant; or<br><br>
 c) Chartered accountant. <br><br>
 
-Note:
-1.“Solicitor” means an advocate and solicitor of the Supreme Court.
-
-2.“Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.
-
+Note:<br>
+1.“Solicitor” means an advocate and solicitor of the Supreme Court.<br>
+2.“Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.<br>
 3.“Chartered accountant” means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).
 
 <br><br>
