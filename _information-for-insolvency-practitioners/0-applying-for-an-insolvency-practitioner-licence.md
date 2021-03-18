@@ -16,7 +16,7 @@ A "qualified person" is one who is a:
 <br><br>
 a) Solicitor <sup>1</sup>;<br><br>
 b) Public accountant <sup>2</sup>; or<br><br>
-c) Chartered accountant <sup>3</sup>; <br><br>
+c) Chartered accountant <sup>3</sup>. <br><br>
 
 <sup>1</sup> “Solicitor” means an advocate and solicitor of the Supreme Court.
 
