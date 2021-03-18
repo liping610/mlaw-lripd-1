@@ -14,15 +14,16 @@ To be eligible to hold an insolvency practitioner’s licence, an applicant must
 <br><br>
 A "qualified person" is one who is a:
 <br><br>
-a) Solicitor <sup>1</sup>;<br><br>
-b) Public accountant <sup>2</sup>; or<br><br>
-c) Chartered accountant <sup>3</sup>. <br><br>
+a) Solicitor<br><br>
+b) Public accountant; or<br><br>
+c) Chartered accountant. <br><br>
 
-<sup>1</sup> “Solicitor” means an advocate and solicitor of the Supreme Court.
+Note:
+1.“Solicitor” means an advocate and solicitor of the Supreme Court.
 
-<sup>2</sup> “Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.
+2.“Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.
 
-<sup>3</sup> “Chartered accountant” means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).
+3.“Chartered accountant” means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).
 
 <br><br>
 
