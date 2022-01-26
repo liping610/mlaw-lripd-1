@@ -109,5 +109,5 @@ You will be notified of the outcome of your licence application via post and ema
 If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our <a href="/files/Licence Application Guide for Insolvency Practitioners.pdf" target="_blank">Licence Application Guide</a> for insolvency practitioners for more information.
 <br><br>
 
-<img src="/images/Table-contacts.png">
+<img src="/images/Table - contacts (260122).JPG">
 <br>
