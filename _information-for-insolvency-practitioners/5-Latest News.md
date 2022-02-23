@@ -1,7 +1,7 @@
 ---
-title: 'Ongoing Events'
-permalink: /information-for-insolvency-practitioners/ongoing-events/
-breadcrumb: 'Ongoing Events'
+title: 'Latest News'
+permalink: /information-for-insolvency-practitioners/latest-news/
+breadcrumb: 'Latest News'
 
 ---
 **SkillsFuture Fellowships and SkillsFuture Employer Awards 2022**
