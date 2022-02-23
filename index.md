@@ -17,8 +17,9 @@ sections:
                 - title: 'Register of Insolvency Practitioners'
                   description: 'Get the list of licensed Insolvency Practitioners in Singapore'
                   url: /information-for-public/register-of-insolvency-practitioners/
-                - title: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
-                  url: /information-for-insolvency-practitioners/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/                
+                - title: 'Latest News'
+                  description: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
+                  url: /information-for-insolvency-practitioners/latest-news/                
                 - title: 'Contact Us'
                   description: 'Find the answers to your questions'
                   url: 'https://eservices.mlaw.gov.sg/enquiry/'
