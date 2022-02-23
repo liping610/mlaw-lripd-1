@@ -1,7 +1,7 @@
 ---
-title: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
-permalink: /information-for-insolvency-practitioners/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
-breadcrumb: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
+title: 'Latest News'
+permalink: /information-for-insolvency-practitioners/latest-news/
+breadcrumb: 'Latest News'
 
 ---
 **SkillsFuture Fellowships and SkillsFuture Employer Awards 2022**
