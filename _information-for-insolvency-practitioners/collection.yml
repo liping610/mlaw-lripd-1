@@ -1,0 +1,10 @@
+collections:
+  information-for-insolvency-practitioners:
+    output: true
+    order:
+      - applying-for-an-insolvency-practitioner-s-licence.md
+      - licence-application-process.md
+      - licensing-and-regulatory-regime.md
+      - forms.md
+      - resources.md
+      - skillsfuture-fellowships-and-skillsfuture-employer-awards-2022.md
