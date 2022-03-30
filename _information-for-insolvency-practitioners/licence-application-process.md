@@ -1,11 +1,8 @@
 ---
-title: 'Licence Application Process'
+title: Licence Application Process
 permalink: /information-for-insolvency-practitioners/licence-application-process/
-breadcrumb: 'Licence Application Process'
-
+breadcrumb: Licence Application Process
 ---
-
-
 **Licence Application Process**
 ---
 **Where to Apply**
@@ -19,7 +16,7 @@ Please attach a copy of the following documents when submitting your licence app
 a) Curriculum Vitae;
 <br>
 
-b) Evidence that you are a qualified person within the meaning of section 50(2) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
+b) Evidence that you are a qualified person within the meaning of section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
 <br>
 * For **Solicitors** – Valid Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Valid Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
