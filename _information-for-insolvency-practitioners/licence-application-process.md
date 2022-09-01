@@ -29,7 +29,7 @@ c) Professional Membership(s) in any local or foreign professional bodies relati
 * ISCA
 <br>
 
-d) Proof of relevant work experience to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
+d) Proof of relevant work experience (excluding members' voluntary winding up and schemes of arrangement) to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
 <br>
 <table>
 <tr>
