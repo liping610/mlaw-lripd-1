@@ -1,11 +1,8 @@
 ---
-title: 'Applying for an Insolvency Practitioner''s Licence'
+title: Applying for an Insolvency Practitioner's Licence
 permalink: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
-breadcrumb: 'Applying for an Insolvency Practitioner''s Licence'
-
+breadcrumb: Applying for an Insolvency Practitioner's Licence
 ---
-
-
 **Applying for an Insolvency Practitioner's Licence**
 ---
 To be eligible to hold an insolvency practitioner’s licence, an applicant must fulfil the following criteria:
@@ -33,19 +30,6 @@ a) Acted as an insolvency practitioner in relation to a corporation or an indivi
 b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br><br>
 c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br>
-
-The types of personal or corporate insolvency and/or debt-restructuring work include being appointed as:
-<br><br>
-a) A liquidator or provisional liquidator in Court-ordered / creditors' voluntary winding up;
-<br><br>
-b) A receiver and manager;
-<br><br>
-c) A judicial manager or interim judicial manager;
-<br><br>
-d) A trustee in a bankruptcy; and/or
-<br><br>
-e) A nominee in individual voluntary arrangement cases.
-<br><br>
 
 **3. “Fit and Proper”**
 <br><br>
