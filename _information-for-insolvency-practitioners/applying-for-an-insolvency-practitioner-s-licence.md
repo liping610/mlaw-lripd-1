@@ -29,8 +29,7 @@ a) Acted as an insolvency practitioner in relation to a corporation or an indivi
 <br><br>
 b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br><br>
-c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br>
-
+c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br><br>
 **3. “Fit and Proper”**
 <br><br>
 In determining whether an applicant is a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
@@ -39,7 +38,7 @@ a) Whether an applicant has ever had any approved licence(s) issued by the Accou
 <br><br>
 b) Whether an applicant has previously been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude;
 <br><br>
-c) Whether an applicant has previously had a judgment entered against him/her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his / her part;
+c) Whether an applicant has previously had a judgment entered against him / her in a civil proceedings that involves a finding of fraud, dishonesty or breach of fiduciary duty on his / her part;
 <br><br>
 d) Whether an applicant has previously received, or is presently receiving any treatment for any mental disorder;
 <br><br>
