@@ -20,10 +20,7 @@ links:
   - title: Information For Insolvency Practitioners
     collection: information-for-insolvency-practitioners
   - title: FAQ
-    url: /https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspxnk
-    sublinks:
-      - title: Submenu Title
-        url: /permalink
+    url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
   - title: News
     url: https://www.mlaw.gov.sg/news/
     external: true
