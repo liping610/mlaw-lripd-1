@@ -29,10 +29,10 @@ A fee of **$600.00** is payable for any application to **renew** an insolvency p
 
 Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
 
-•PayPal;<br>
-•VISA;<br>
-•Mastercard;<br>
-•American Express; or<br>
-•Discover.
+• PayPal;<br>
+• VISA;<br>
+• Mastercard;<br>
+• American Express; or<br>
+• Discover.
 
-Please note that the application fee is <ins>***strictly non-refundable***</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection regardless of reasons etc).
+Please note that the application fee is <ins>***strictly non-refundable***</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection of application).
