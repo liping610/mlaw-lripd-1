@@ -6,4 +6,6 @@ description: ""
 **When an Insolvency Practitioner's Licence is required**
 ---
 [](/files/Infographic%201%20-%20When%20an%20IP%20licence%20is%20required.pdf)
+![](/images/Infographic%201A%20-%20When%20an%20IP%20licence%20is%20required.jpg)
+
 ![](/images/Infographic%201%20-%20When%20an%20IP%20licence%20is%20required.jpg)
