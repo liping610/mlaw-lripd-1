@@ -5,11 +5,13 @@ breadcrumb: Licence Application Process
 ---
 **Licence Application Process**
 ---
-**Where to Apply**
+<a href="#Where to Apply">Where to Apply</a> | <a href="#Documents Required">Documents Required</a> | <a href="#Validity of Licence">Validity of Licence </a> | <a href="#Prescribed Fee">Prescribed Fee</a> | <a href="#Processing Time">Processing Time</a> | <a href="#Notification of Outcome">Notification of Outcome</a> | <a href="#Need Help?">Need Help?</a>
+
+<a id="Where to Apply"></a>**Where to Apply**
 <br><br>
 Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean/SPR).
 <br><br>
-**Documents Required**
+<a id="Documents Required"></a>**Documents Required**
 <br><br>
 Please attach a copy of the following documents when submitting your licence application online:
 <br><br>
