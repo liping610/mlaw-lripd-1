@@ -18,3 +18,21 @@ If you fail to submit your renewal application before 30 April of the licence’
 **Renewal Application Process**
 
 The renewal application process is the same as the new licence application process. Please refer to [Licence Application Process](https://www.lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/) for more information on the process and documents required.
+
+**Validity of Licence**
+
+A renewed licence will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired (i.e. 30 June 20XX) if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
+
+**Prescribed Fee**
+
+A fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence.
+
+Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
+
+•PayPal;<br>
+•VISA;<br>
+•Mastercard;<br>
+•American Express; or<br>
+•Discover.
+
+Please note that the application fee is <ins>***strictly non-refundable***</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection regardless of reasons etc).
