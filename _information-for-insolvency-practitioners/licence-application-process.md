@@ -7,29 +7,26 @@ breadcrumb: Licence Application Process
 ---
 **Where to Apply**
 <br><br>
-Please submit your application for the insolvency practitioner’s licence through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> using either your SINGPASS (For Singaporeans / Singapore Permanent Residents) or GoBusiness Licence ID (For foreigners).
+Please submit your application through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean/SPR).
 <br><br>
 **Documents Required**
 <br><br>
 Please attach a copy of the following documents when submitting your licence application online:
 <br><br>
-a) Curriculum Vitae;
-<br>
-
-b) Evidence that you are a qualified person within the meaning of section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
+a) Evidence that you are a qualified person within the meaning of section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("IRDA"):
 <br>
 * For **Solicitors** – Valid Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Valid Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
 * For **Chartered Accountants** – Recent Certificate of Good Standing issued by the Institute of Singapore Chartered Accountants ("ISCA")
 <br>
 
-c) Professional Membership(s) in any local or foreign professional bodies relating to your qualification, which may include:
+b) Professional Membership(s) in any local or foreign professional bodies relating to your qualification, which may include:
 <br>
 * The Law Society of Singapore
 * ISCA
 <br>
 
-d) Proof of relevant work experience to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
+c) Proof of relevant work experience and curriculum vitae *(excluding previous appointments and work experience in members' voluntary winding up or schemes of arrangement under the Companies Act)* to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
 <br>
 <table>
 <tr>
@@ -37,29 +34,31 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
   <td>Supporting Documents</td>
  </tr>
  <tr>
-  <td>i.	Applicant has acted as an insolvency practitioner in relation to a corporation or an individual under the Act or under any corresponding previous law;</td>
+  <td>i.	Applicant has acted as an insolvency practitioner in relation to a corporation or an individual under the IRDA or under any corresponding previous law;</td>
   <td>
-•	Recent copies of orders of court, resolutions passed by members or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.<br>
+Recent copies of orders of court, resolutions passed by members and / or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.<br>
 
-•	Approved liquidator’s licence with ACRA (if applicable).
 
 </td>
  </tr>
  <tr>
-  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
+  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the IRDA or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
 </td>
   <td>Written confirmation from the person acting as an insolvency practitioner and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:<br>
-
 •	Applicant’s job position;<br>
 •	Applicant’s role / involvement in the firm / organisation and; <br>
-•	the number of years of relevant experience in insolvency work attained with the firm / organisation. <br>
-
+• The number of years of relevant experience in insolvency work attained with the firm / organisation. <br><br>
+Details of each case that the Applicant has undertaken including:<br>
+•	Name of company / bankrupt; <br>
+•	Case reference no. (if any);<br>
+• Role performed / undertaken by Applicant; and<br>
+•	If at a supervisory level, the duration for which the role was performed / undertaken.<br>
 </td>
  </tr>
  <tr>
-  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
-  <td>•	Documents evidencing that the Applicant has acted  as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.<br>
-
+  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the IRDA or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
+ <td>
+•	Case reference no. of the cases the Applicant has acted as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.<br>
 •	Written declaration from the Applicant declaring the case references of all recent bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years. The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
 </td>
  </tr>
