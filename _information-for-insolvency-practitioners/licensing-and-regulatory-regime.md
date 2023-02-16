@@ -1,16 +1,18 @@
 ---
-title: 'Licensing and Regulatory Regime'
+title: Licensing and Regulatory Regime
 permalink: /information-for-insolvency-practitioners/licensing-and-regulatory-regime/
-breadcrumb: 'Licensing and Regulatory Regime'
-
+breadcrumb: Licensing and Regulatory Regime
 ---
-
-
 **Licensing and Regulatory Regime**
 ---
-The licensing framework of insolvency practitioners under the Insolvency, Restructuring and Dissolution Act 2018 (“the Act”) will be one where:
+The licensing framework of insolvency practitioners under the Insolvency, Restructuring and Dissolution Act 2018 (“IRDA”) will be one where:
 <br><br>
-a)	A public accountant and / or chartered accountant who is issued an insolvency practitioner's licence will be allowed to undertake insolvency appointments in court-ordered winding up, creditors' voluntary winding up, receivership, judicial management, bankruptcy and voluntary arrangement cases; and
+a)	A public accountant and / or chartered accountant who is issued an insolvency practitioner's licence will be allowed to undertake insolvency and debt restructuring appointments in:<br><br>
+(i)  Court-ordered winding up;<br>
+(ii) creditors' voluntary winding up;<br>
+(iii) receivership;<br>
+(iv) judicial management; and<br>
+(v)  bankruptcy and voluntary arrangement cases.
 <br><br>
 b)	A solicitor who is issued an insolvency practitioner’s licence will be confined to undertake insolvency appointments in bankruptcy and voluntary arrangement cases only. 
 <br><br><br>
