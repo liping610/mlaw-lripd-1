@@ -7,7 +7,7 @@ description: ""
 ---
 <a href="#Renewal Period">Renewal Period</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Validity of Licence">Validity of Licence </a> | <a href="#Prescribed Fee">Prescribed Fee</a>
 
-**Renewal Period**   
+####<a id="Renewal Period"></a> **Renewal Period**   
 
 It is an offence if you act, advertise, or hold out as an insolvency practitioner in relation to a corporation or an individual without a valid insolvency practitioner’s licence pursuant to section 48 of the IRDA.
 
