@@ -7,7 +7,7 @@ breadcrumb: Licence Application Process
 ---
 **Where to Apply**
 <br><br>
-Please submit your application through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean/SPR).
+Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean/SPR).
 <br><br>
 **Documents Required**
 <br><br>
@@ -62,9 +62,7 @@ Details of each case that the Applicant has undertaken including:<br>
 •	Written declaration from the Applicant declaring the case references of all recent bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years. The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
 </td>
  </tr>
-  
-</table><br>
-
+  </table><br>
 
 **Validity of the Licence**
 <br><br>
@@ -96,8 +94,7 @@ You will be notified of the outcome of your licence application via post and ema
 <br><br>
 **Need Help?**
 <br><br>
-If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our <a href="/files/Licence Application Guide for Insolvency Practitioners.pdf" target="_blank">Licence Application Guide</a> for insolvency practitioners for more information.
+If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide]() for insolvency practitioners for more information.
 <br><br>
-
-<img src="/images/Table - contacts (260122).JPG">
+![]()
 <br>
