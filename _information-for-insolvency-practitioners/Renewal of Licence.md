@@ -5,7 +5,7 @@ description: ""
 ---
 **Renewal of Licence**
 ---
-<a href="#Renewal Period">Renewal Period</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Validity of Licence">Validity of Licence </a> | <a href="#Prescribed Fee">Prescribed Fee</a>
+<a href="#Renewal Period">Renewal Period</a>  |  <a href="#Renewal Application Process">Renewal Application Process</a>  |  <a href="#Validity of Licence">Validity of Licence</a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>
 
 <a id="Renewal Period"></a> **Renewal Period**   
 
