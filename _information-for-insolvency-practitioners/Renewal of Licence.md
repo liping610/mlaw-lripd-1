@@ -7,7 +7,7 @@ description: ""
 ---
 <a href="#Renewal Period">Renewal Period</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Validity of Licence">Validity of Licence </a> | <a href="#Prescribed Fee">Prescribed Fee</a>
 
-####<a id="Renewal Period"></a> **Renewal Period**   
+<a id="Renewal Period"></a> **Renewal Period**   
 
 It is an offence if you act, advertise, or hold out as an insolvency practitioner in relation to a corporation or an individual without a valid insolvency practitioner’s licence pursuant to section 48 of the IRDA.
 
@@ -15,15 +15,15 @@ If your insolvency practitioner’s licence is expiring on 30th June of the year
 
 If you fail to submit your renewal application before 30 April of the licence’s expiry year, you will be required to submit your application as a **new** applicant and be subject to the corresponding prescribed fee of $650.
 
-**Renewal Application Process**
+<a id="Renewal Application Process"></a>**Renewal Application Process**
 
 The renewal application process is the same as the new licence application process. Please refer to [Licence Application Process](https://www.lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/) for more information on the process and documents required.
 
-**Validity of Licence**
+<a id="Validity of Licence "></a>**Validity of Licence**
 
 A renewed licence will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired (i.e. 30 June 20XX) if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
 
-**Prescribed Fee**
+<a id="Prescribed Fee"></a>**Prescribed Fee**
 
 A fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence.
 
