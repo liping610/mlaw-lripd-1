@@ -70,17 +70,11 @@ Details of each case that the Applicant has undertaken including:<br>
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
-Thereafter, a **licence that is renewed** will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
+For information relating to renewal of licence, please refer to "Renewal of Licence".
 <br><br>
-**Licence Renewal Period**
-<br><br>
-A renewal application can only be submitted via GoBusiness Licensing Portal from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an insolvency practitioner, you are advised to submit your renewal application early. 
-<br><br>
-If you fail to submit your renewal within the stipulated period, you are required to submit your application as a **new** applicant and be subject to the corresponding application fee that applies to it instead.
-<br><br>
-**Application Fees**
+**Prescribed Fee**
 <br><br> 
-An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence, while a fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence. 
+An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence. 
 <br><br>Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
 <br>
 * PayPal;<br>
@@ -90,15 +84,15 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * Discover.<br>
 
 
-Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application.
+Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection of application).
 <br><br>
 **Processing Time**
 <br><br>
-Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
+Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order, and / or further clarification is required based on the information submitted.
 <br><br>
 **Notification of Outcome**
 <br><br>
-You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence.
+You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence. The update on the status of your application will also be available on the GoBusiness Licensing Portal.
 <br><br>
 **Need Help?**
 <br><br>
