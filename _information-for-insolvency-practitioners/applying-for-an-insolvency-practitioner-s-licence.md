@@ -9,27 +9,34 @@ To be eligible to hold an insolvency practitioner’s licence, an applicant must
 <br><br>
 **1. Qualified Person**
 <br><br>
-A "qualified person" is one who is a:
+Section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 (“IRDA”) requires an applicant to be a “qualified person” who is a:
 <br><br>
 a) Solicitor<br><br>
 b) Public accountant; or<br><br>
-c) Chartered accountant. <br><br>
+c) Chartered accountant. <br>
 
-<ins>Note:</ins><br><br>
-1. “Solicitor” means an advocate and solicitor of the Supreme Court.<br>
-2. “Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.<br>
-3. “Chartered accountant” means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act (Cap. 294B).
-<br><br>
+<ins>Note:</ins><br>
+*  “Solicitor” means an advocate and solicitor of the Supreme Court.<br>
+* “Public accountant” means a person who is registered or deemed to be registered in accordance with the Accountants Act (Cap. 2) as a public accountant.<br>
+* “Chartered accountant” means a person who is registered or deemed to be registered as a Chartered Accountant of Singapore under the Singapore Accountancy Commission Act 2013.
+<br>
 
 **2. Relevant Work Experience**
 <br><br>
-An applicant must satisfy at least one of the following requirements:
+Regulation 5(3) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020 requires an applicant to satisfy at least one of the following requirements:
 <br><br>
-a) Acted as an insolvency practitioner in relation to a corporation or an individual under the Insolvency, Restructuring and Dissolution Act 2018 ("the Act") or under any corresponding previous law;
+a) Acted as an insolvency practitioner in relation to a corporation or an individual under the IRDA or under any corresponding previous law;
 <br><br>
-b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
+b) Assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the IRDA or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; **or**
 <br><br>
-c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br><br>
+c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the IRDA or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br>
+The types of personal or corporate insolvency and / or debt restructuring work include being appointed as:<br><br>
+a) A liquidator or provisional liquidator in Court-ordered / creditors’ voluntary winding up;<br><br>
+b) A receiver and manager;<br><br>
+c) A judicial manager or interim judicial manager; <br><br>
+d) A trustee in a bankruptcy; and / or <br><br>
+e) A nominee in individual voluntary arrangement cases.
+<br><br><br>
 **3. “Fit and Proper”**
 <br><br>
 In determining whether an applicant is a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:
