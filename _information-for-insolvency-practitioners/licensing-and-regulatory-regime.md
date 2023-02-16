@@ -14,12 +14,12 @@ a)	A public accountant and / or chartered accountant who is issued an insolvency
 (iv) judicial management; and<br>
 (v)  bankruptcy and voluntary arrangement cases.
 <br><br>
-b)	A solicitor who is issued an insolvency practitioner’s licence will be confined to undertake insolvency appointments in bankruptcy and voluntary arrangement cases only. 
+b)	A solicitor who is issued an insolvency practitioner’s licence will be confined to undertake insolvency appointments in bankruptcy and voluntary arrangement cases *only*. 
 <br><br><br>
 **Licence Conditions**
 <br><br>
-Under section 52 of the Act, the Licensing Officer may impose conditions which he considers requisite or expedient to be complied with on the licences. This is in addition to the statutory requirements under the Act (including the subsidiary legislation).
+Under section 52 of the IRDA, the Licensing Officer may impose conditions which he considers requisite or expedient to be complied with on the licences. This is in addition to the statutory requirements under the IRDA (including the subsidiary legislation).
 <br><br>
-Licence conditions are a set of administrative rules that a licensee must abide by if he wishes to (or continues to) hold the licence to act as an insolvency practitioner, and may apply to all licensees, a specified class of licensees or a specific licensee. It also seeks to establish a common and minimum set of standards of professional conduct a licensee is expected to uphold when undertaking insolvency work under the Act.
+Licence conditions are a set of administrative rules that a licensee must abide by if he wishes to (or continues to) hold the licence to act as an insolvency practitioner, and may apply to all licensees, a specified class of licensees or a specific licensee. It also seeks to establish a common and minimum set of standards of professional conduct a licensee is expected to uphold when undertaking insolvency work under the IRDA.
 <br><br>
 Please click <a href="/files/Licence Conditions on IP 300720.pdf" target="_blank">HERE</a> for the licence conditions that are required to be complied by all licensees. <br>
