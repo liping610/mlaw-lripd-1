@@ -94,7 +94,7 @@ Depending on the complexity of the application, we may take up to 2 to 3 weeks t
 <br><br>
 You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence. The update on the status of your application will also be available on the GoBusiness Licensing Portal.
 <br><br>
-<a id="Need Help"></a>**Need Help?**
+<a id="Need Help?"></a>**Need Help?**
 <br><br>
 If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide](/files/Licence%20Application%20Guide%20for%20Insolvency%20Practitioners.pdf) for insolvency practitioners for more information.
 <br><br>
