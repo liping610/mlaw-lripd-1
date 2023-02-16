@@ -66,13 +66,13 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </table><br>
 
-**Validity of the Licence**
+<a id="Validity of the Licence"></a>**Validity of the Licence**
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
 For information relating to renewal of licence, please refer to "Renewal of Licence".
 <br><br>
-**Prescribed Fee**
+<a id="Prescribed Fee"></a>**Prescribed Fee**
 <br><br> 
 An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence. 
 <br><br>Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
@@ -86,15 +86,15 @@ An application fee of **$650.00** is payable for any **new** application for ins
 
 Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection of application).
 <br><br>
-**Processing Time**
+<a id="Processing Time"></a>**Processing Time**
 <br><br>
 Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order, and / or further clarification is required based on the information submitted.
 <br><br>
-**Notification of Outcome**
+<a id="Notification of Outcome"></a>**Notification of Outcome**
 <br><br>
 You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence. The update on the status of your application will also be available on the GoBusiness Licensing Portal.
 <br><br>
-**Need Help?**
+<a id="Need Help"></a>**Need Help?**
 <br><br>
 If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide](/files/Licence%20Application%20Guide%20for%20Insolvency%20Practitioners.pdf) for insolvency practitioners for more information.
 <br><br>
