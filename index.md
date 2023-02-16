@@ -20,4 +20,7 @@ sections:
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
+        - title: FAQs
+          description: Answers to common questions
+          url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
 ---
