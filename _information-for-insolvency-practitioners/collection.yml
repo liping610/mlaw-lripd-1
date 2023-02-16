@@ -2,8 +2,8 @@ collections:
   information-for-insolvency-practitioners:
     output: true
     order:
-      - When an Insolvency Practitioner's Licence is Required.md
       - licensing-and-regulatory-regime.md
+      - When an Insolvency Practitioner's Licence is Required.md
       - applying-for-an-insolvency-practitioner-s-licence.md
       - licence-application-process.md
       - forms.md
