@@ -75,7 +75,7 @@ Details of each case that the Applicant has undertaken including:<br>
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
-For information relating to renewal of licence, please refer to "Renewal of Licence".
+For information relating to renewal of licence, please refer to "[Renewal of Licence](https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/renewal-of-licence/)".
 <br><br>
 <a id="Prescribed Fee"></a>**Prescribed Fee**
 <br><br> 
