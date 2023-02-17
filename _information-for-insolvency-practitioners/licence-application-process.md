@@ -9,6 +9,11 @@ breadcrumb: Licence Application Process
 
 [Infographic - Licence Application Process](/files/Infographic%202%20-%20Licence%20Application%20Process.pdf)
 ![](/images/Infographic%202%20-%20Licence%20Application%20Process.jpg)
+
+<a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
+  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg" />
+ </a>
+
 <br>
 <a id="Where to Apply"></a>**Where to Apply**
 <br><br>
