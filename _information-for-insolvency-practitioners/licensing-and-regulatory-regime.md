@@ -20,6 +20,6 @@ b)	A solicitor who is issued an insolvency practitioner’s licence will be conf
 <br><br>
 Under section 52 of the IRDA, the Licensing Officer may impose conditions which he considers requisite or expedient to be complied with on the licences. This is in addition to the statutory requirements under the IRDA (including the subsidiary legislation).
 <br><br>
-Licence conditions are a set of administrative rules that a licensee must abide by if he wishes to (or continues to) hold the licence to act as an insolvency practitioner, and may apply to all licensees, a specified class of licensees or a specific licensee. It also seeks to establish a common and minimum set of standards of professional conduct a licensee is expected to uphold when undertaking insolvency work under the IRDA.
+Licence conditions are a set of administrative rules that a licensee must abide by if he wishes to (or continues to) hold the licence to act as an insolvency practitioner, and may apply to all licensees, a specified class of licensees or a specific licensee. It also seeks to establish a common and minimum set of standards of professional conduct a licensee is expected to uphold when undertaking insolvency and debt restructuring work under the IRDA.
 <br><br>
 Please click <a href="/files/Licence Conditions on IP 300720.pdf" target="_blank">HERE</a> for the licence conditions that are required to be complied by all licensees. <br>
