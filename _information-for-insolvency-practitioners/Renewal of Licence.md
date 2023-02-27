@@ -17,7 +17,7 @@ If you fail to submit your renewal application before 30 April of the licence’
 
 <a id="Renewal Application Process"></a>**Renewal Application Process**
 
-The renewal application process is the same as the new licence application process. Please refer to [Licence Application Process](https://www.lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/) for more information on the process and documents required.
+The renewal application process is the same as the new licence application process. Please refer to [Licence Application Process](https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/) for more information on the process and documents required.
 
 <a id="Validity of Licence"></a>**Validity of Licence**
 
