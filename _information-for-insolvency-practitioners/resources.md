@@ -9,4 +9,3 @@ Resources
 <br><br>
 2. <a href="https://sso.agc.gov.sg/SL/IRDA2018-S617-2020?DocDate=20200728" target="_blank">Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020</a>
 <br><br>
-3. <a href="/files/Infographic for Licensing of IPs.pdf" target="_blank">Infographic on the new licensing and regulatory regime for insolvency practitioners</a>

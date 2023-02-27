@@ -17,6 +17,9 @@ sections:
         - title: Register of Insolvency Practitioners
           description: Get the list of licensed Insolvency Practitioners in Singapore
           url: /information-for-public/register-of-insolvency-practitioners/
+        - title: FAQs
+          description: Answers to common questions
+          url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/

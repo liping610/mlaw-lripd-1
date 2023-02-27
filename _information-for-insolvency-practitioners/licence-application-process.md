@@ -5,31 +5,35 @@ breadcrumb: Licence Application Process
 ---
 **Licence Application Process**
 ---
-**Where to Apply**
+<a href="#Where to Apply">Where to Apply</a>  |  <a href="#Documents Required">Documents Required</a>  |  <a href="#Validity of the Licence">Validity of the Licence </a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>  |  <a href="#Processing Time">Processing Time</a>  |  <a href="#Notification of Outcome">Notification of Outcome</a>  |  <a href="#Need Help?">Need Help?</a><br>
+
+<a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
+  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg" />
+ </a>
+
+<br>
+<a id="Where to Apply"></a>**Where to Apply**
 <br><br>
-Please submit your application for the insolvency practitioner’s licence through the Government’s <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Platform</a> using either your SINGPASS (For Singaporeans / Singapore Permanent Residents) or GoBusiness Licence ID (For foreigners).
+Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).
 <br><br>
-**Documents Required**
+<a id="Documents Required"></a>**Documents Required**
 <br><br>
 Please attach a copy of the following documents when submitting your licence application online:
 <br><br>
-a) Curriculum Vitae;
-<br>
-
-b) Evidence that you are a qualified person within the meaning of section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("the Act"):
+a) Evidence that you are a qualified person within the meaning of section 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("IRDA"):
 <br>
 * For **Solicitors** – Valid Practising Certificate issued by the Supreme Court <br>
 * For **Public Accountants** – Valid Certificate of Registration issued by the Accounting and Corporate Regulatory Authority ("ACRA") <br>
 * For **Chartered Accountants** – Recent Certificate of Good Standing issued by the Institute of Singapore Chartered Accountants ("ISCA")
 <br>
 
-c) Professional Membership(s) in any local or foreign professional bodies relating to your qualification, which may include:
+b) Professional Membership(s) in any local or foreign professional bodies relating to your qualification, which may include:
 <br>
 * The Law Society of Singapore
 * ISCA
 <br>
 
-d) Proof of relevant work experience to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
+c) Proof of relevant work experience and curriculum vitae *(excluding previous appointments and work experience in members' voluntary winding up or schemes of arrangement under the Companies Act)* to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
 <br>
 <table>
 <tr>
@@ -37,51 +41,44 @@ d) Proof of relevant work experience to be eligible for the grant or renewal of 
   <td>Supporting Documents</td>
  </tr>
  <tr>
-  <td>i.	Applicant has acted as an insolvency practitioner in relation to a corporation or an individual under the Act or under any corresponding previous law;</td>
+  <td>i.	Applicant has acted as an insolvency practitioner in relation to a corporation or an individual under the IRDA or under any corresponding previous law;</td>
   <td>
-•	Recent copies of orders of court, resolutions passed by members or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.<br>
-
-•	Approved liquidator’s licence with ACRA (if applicable).
+Recent copies of orders of court, resolutions passed by members and / or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.<br>
 
 </td>
  </tr>
  <tr>
-  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the Act or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
+  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the IRDA or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
 </td>
   <td>Written confirmation from the person acting as an insolvency practitioner and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:<br>
-
 •	Applicant’s job position;<br>
 •	Applicant’s role / involvement in the firm / organisation and; <br>
-•	the number of years of relevant experience in insolvency work attained with the firm / organisation. <br>
-
+• The number of years of relevant experience in insolvency work attained with the firm / organisation. <br><br>
+Details of each case that the Applicant has undertaken including:<br>
+•	Name of company / bankrupt; <br>
+•	Case reference no. (if any);<br>
+• Role performed / undertaken by Applicant; and<br>
+•	If at a supervisory level, the duration for which the role was performed / undertaken.<br>
 </td>
  </tr>
  <tr>
-  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the Act or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
-  <td>•	Documents evidencing that the Applicant has acted  as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.<br>
-
-•	Written declaration from the Applicant declaring the case references of all recent bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years. The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
+  <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the IRDA or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
+ <td>
+•	Where the Applicant has acted as a solicitor for a creditor or debtor in a bankruptcy application, please provide the case reference no. of the cases in the last 3 years.<br>
+•	Where the Applicant has acted as a solicitor for a creditor or a bankrupt in relation to the administration of a bankruptcy in the last 3 years, please set out the brief details of the bankruptcy case(s) and the Applicant's role.
 </td>
  </tr>
-  
-</table><br>
+  </table><br>
 
-
-**Validity of the Licence**
+<a id="Validity of the Licence"></a>**Validity of the Licence**
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
 <br><br>
-Thereafter, a **licence that is renewed** will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
+For information relating to renewal of licence, please refer to "[Renewal of Licence](https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/renewal-of-licence/)".
 <br><br>
-**Licence Renewal Period**
-<br><br>
-A renewal application can only be submitted via GoBusiness Licensing Portal from **1 March to 30 April** of the licence’s expiry year. To avoid unnecessary disruption in acting as an insolvency practitioner, you are advised to submit your renewal application early. 
-<br><br>
-If you fail to submit your renewal within the stipulated period, you are required to submit your application as a **new** applicant and be subject to the corresponding application fee that applies to it instead.
-<br><br>
-**Application Fees**
+<a id="Prescribed Fee"></a>**Prescribed Fee**
 <br><br> 
-An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence, while a fee of **$600.00** is payable for any application to **renew** an insolvency practitioner’s licence. 
+An application fee of **$650.00** is payable for any **new** application for insolvency practitioner’s licence. 
 <br><br>Payments can only be made through the GoBusiness Licensing Portal using the following electronic payment modes:
 <br>
 * PayPal;<br>
@@ -91,20 +88,19 @@ An application fee of **$650.00** is payable for any **new** application for ins
 * Discover.<br>
 
 
-Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application.
+Please note that the application fee is <ins>_**strictly non-refundable**_</ins>, regardless of the outcome of your licence application (e.g. withdrawal by applicant, rejection of application).
 <br><br>
-**Processing Time**
+<a id="Processing Time"></a>**Processing Time**
 <br><br>
-Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order.
+Depending on the complexity of the application, we may take up to 2 to 3 weeks to process your licence application. Please note that the processing time may take longer if the documents submitted in support of the application are incomplete or not in order, and / or further clarification is required based on the information submitted.
 <br><br>
-**Notification of Outcome**
+<a id="Notification of Outcome"></a>**Notification of Outcome**
 <br><br>
-You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence.
+You will be notified of the outcome of your licence application via post and email. If your application is successful, you will also receive a copy of the insolvency practitioner's licence. The update on the status of your application will also be available on the GoBusiness Licensing Portal.
 <br><br>
-**Need Help?**
+<a id="Need Help?"></a>**Need Help?**
 <br><br>
-If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our <a href="/files/Licence Application Guide for Insolvency Practitioners.pdf" target="_blank">Licence Application Guide</a> for insolvency practitioners for more information.
+If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide](/files/Licence%20Application%20Guide%20for%20Insolvency%20Practitioners.pdf) for insolvency practitioners for more information.
 <br><br>
-
-<img src="/images/Table - contacts (260122).JPG">
+![](/images/contact%20details%20260122.jpg)
 <br>
