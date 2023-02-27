@@ -5,7 +5,7 @@ description: ""
 ---
 **Renewal of Licence**
 ---
-<a href="#Renewal Period">Renewal Period</a>  |  <a href="#Renewal Application Process">Renewal Application Process</a>  |  <a href="#Validity of Licence">Validity of Licence</a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>
+<a href="#Renewal Period">Renewal Period</a>  |  <a href="#Renewal Application Process">Renewal Application Process</a>  |  <a href="#Validity of the Licence">Validity of the Licence</a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>
 
 <a id="Renewal Period"></a> **Renewal Period**   
 
@@ -19,7 +19,7 @@ If you fail to submit your renewal application before 30 April of the licence’
 
 The renewal application process is the same as the new licence application process. Please refer to [Licence Application Process](https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/) for more information on the process and documents required.
 
-<a id="Validity of Licence"></a>**Validity of Licence**
+<a id="Validity of the Licence"></a>**Validity of the Licence**
 
 A renewed licence will continue to be valid for a further period of 3 years, starting on the date immediately following that on which the licence would have expired (i.e. 30 June 20XX) if it was not renewed. For example, if a licence expires on 30 June 2023 and the renewal is granted on 30 April 2023, the renewed licence will commence on 1 July 2023 and expire on 30 June 2026.
 
