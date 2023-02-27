@@ -32,7 +32,7 @@ b) Assisted another person in that person acting as an insolvency practitioner i
 c) Acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the IRDA or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner's licence.<br><br>
 The types of personal or corporate insolvency and / or debt restructuring work include being appointed as:<br><br>
 a) A liquidator or provisional liquidator in Court-ordered / creditors’ voluntary winding up;<br><br>
-b) A receiver and manager;<br><br>
+b) A receiver or manager;<br><br>
 c) A judicial manager or interim judicial manager; <br><br>
 d) A trustee in a bankruptcy; and / or <br><br>
 e) A nominee in individual voluntary arrangement cases.
