@@ -7,8 +7,8 @@ breadcrumb: Licence Application Process
 ---
 <a href="#Where to Apply">Where to Apply</a>  |  <a href="#Documents Required">Documents Required</a>  |  <a href="#Validity of Licence">Validity of Licence </a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>  |  <a href="#Processing Time">Processing Time</a>  |  <a href="#Notification of Outcome">Notification of Outcome</a>  |  <a href="#Need Help?">Need Help?</a><br>
 
-<a href="/files/Infographic%202A%20-%20Licence%20Application%20Process.pdf">
-  <img src="/images/Infographic%202A%20-%20Licence%20Application%20Process.jpg" />
+<a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
+  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg" />
  </a>
 
 <br>
@@ -65,8 +65,8 @@ Details of each case that the Applicant has undertaken including:<br>
  <tr>
   <td>iii.	Applicant has acted as a solicitor for a creditor or a debtor in relation to a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy, under the IRDA or under any corresponding previous law within the last 3 years before the date of the application for a grant of an insolvency practitioner’s licence. </td>
  <td>
-•	Case reference no. of the cases the Applicant has acted as a solicitor for a creditor or debtor in a bankruptcy application, or for a creditor or a bankrupt in relation to the administration of any bankruptcy in the last 3 years.<br>
-•	Written declaration from the Applicant declaring all recent bankruptcy related proceedings or administration that the Applicant was involved in the last 3 years. The written declaration should also include brief details of the bankruptcy case and the Applicant’s role. 
+•	Where the Applicant has acted as a solicitor for a creditor or debtor in a bankruptcy application, please provide the case reference no. of the cases in the last 3 years.<br>
+•	Where the Applicant has acted as a solicitor for a creditor or a bankrupt in relation to the administration of a bankruptcy in the last 3 years, please set out the brief details of the bankruptcy case(s) and the Applicant's role.
 </td>
  </tr>
   </table><br>
