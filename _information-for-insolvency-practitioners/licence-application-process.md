@@ -43,7 +43,7 @@ c) Proof of relevant work experience and curriculum vitae *(excluding previous a
  <tr>
   <td>i.	Applicant has acted as an insolvency practitioner in relation to a corporation or an individual under the IRDA or under any corresponding previous law;</td>
   <td>
-Recent copies of orders of court, resolutions passed by members and / or creditors of the company evidencing applicant’s appointment and the capacity in which he is appointed.<br>
+Recent copies of orders of court, resolutions passed by members and / or creditors of the company evidencing Applicant’s appointment and the capacity in which he was appointed.<br>
 
 </td>
  </tr>
