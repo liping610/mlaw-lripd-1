@@ -8,13 +8,13 @@ breadcrumb: Licence Application Process
 <a href="#Where to Apply">Where to Apply</a>  |  <a href="#Documents Required">Documents Required</a>  |  <a href="#Validity of the Licence">Validity of the Licence </a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>  |  <a href="#Processing Time">Processing Time</a>  |  <a href="#Notification of Outcome">Notification of Outcome</a>  |  <a href="#Need Help?">Need Help?</a><br>
 
 <a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
-  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg" />
+  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg">
  </a>
 
 <br>
 <a id="Where to Apply"></a>**Where to Apply**
 <br><br>
-Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).
+Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).
 <br><br>
 <a id="Documents Required"></a>**Documents Required**
 <br><br>
@@ -33,10 +33,10 @@ b) Professional Membership(s) in any local or foreign professional bodies relati
 * ISCA
 <br>
 
-c) Proof of relevant work experience and curriculum vitae *(excluding previous appointments and work experience in members' voluntary winding up or schemes of arrangement under the Companies Act)* to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
+c) Proof of relevant work experience and curriculum vitae *(excluding previous appointments and work experience in members' voluntary winding up or schemes of arrangement)* to be eligible for the grant or renewal of the licence. The supporting documents will include (but are not limited to):
 <br>
 <table>
-<tr>
+<tbody><tr>
   <td>Requirement</td>
   <td>Supporting Documents</td>
  </tr>
@@ -68,7 +68,7 @@ Details of each case that the Applicant has undertaken including:<br>
 •	Where the Applicant has acted as a solicitor for a creditor or a bankrupt in relation to the administration of a bankruptcy in the last 3 years, please set out the brief details of the bankruptcy case(s) and the Applicant's role.
 </td>
  </tr>
-  </table><br>
+  </tbody></table><br>
 
 <a id="Validity of the Licence"></a>**Validity of the Licence**
 <br><br>
