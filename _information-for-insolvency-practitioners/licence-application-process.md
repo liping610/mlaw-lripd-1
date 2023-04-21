@@ -71,7 +71,7 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </tbody></table><br>
 
-c) For purposes of satisfying the requirements under Regulation 5(3A) of the IRD (IP)(Amendment) Regulations 2023 (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
+d) For purposes of satisfying the requirements under Regulation 5(3A) of the IRD (IP)(Amendment) Regulations 2023 (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
 <br>
 <table>
 <tbody><tr>
