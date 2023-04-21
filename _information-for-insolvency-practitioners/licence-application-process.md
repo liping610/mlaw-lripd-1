@@ -71,6 +71,26 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </tbody></table><br>
 
+c) For purposes of satisfying the requirements under Regulation 5(3A) of the IRD (IP)(Amendment) Regulations 2023 (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
+<br>
+<table>
+<tbody><tr>
+  <td>Requirement</td>
+  <td>Supporting Documents</td>
+ </tr>
+ <tr>
+  <td>i. Applicant holds and has held the equivalent of an insolvency practitioner’s licence in a foreign jurisdiction for a minimum of 3 continuous years; and   <br>
+<br>ii. Applicant&nbsp; has acted as the equivalent of a licensed insolvency practitioner in relation to a corporation under any foreign law, in respect of proceedings relating to corporate insolvency, restructuring or dissolution that are international and commercial in nature; or where relief was sought from a court of a foreign jurisdiction under the Model Law as given effect in that jurisdiction.</td>
+  <td>
+•	Curriculum vitae;<br>
+• Documents evidencing that Applicant holds a valid insolvency practitioner’s licence (or its equivalent accreditation or registration) in a foreign jurisdiction, and has held it for at least 3 continuous years under Regulation 5(3A)(b)(i) of the IRD (IP) Regs 2023; and <br>
+•	Documents evidencing Applicant’s appointment as a licensed insolvency practitioner (or its equivalent) as set out under Regulation 5(3A)(b)(ii) of the IRD (IP) Regs 2023.
+<br>
+
+</td>
+ </tr>
+  </tbody></table><br>
+	
 <a id="Validity of the Licence"></a>**Validity of the Licence**
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
