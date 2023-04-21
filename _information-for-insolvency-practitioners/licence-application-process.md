@@ -14,7 +14,8 @@ breadcrumb: Licence Application Process
 <br>
 <a id="Where to Apply"></a>**Where to Apply**
 <br><br>
-Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).
+Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).<br><br>
+For non-Singaporean / SPR without Singpass, please click [here](https://licence1.business.gov.sg/licence1/useraccountmanagement/registerPublicUser.action) to register a new user account before you submit your application.
 <br><br>
 <a id="Documents Required"></a>**Documents Required**
 <br><br>
