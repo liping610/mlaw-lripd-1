@@ -49,7 +49,7 @@ Recent copies of orders of court, resolutions passed by members and / or credito
 </td>
  </tr>
  <tr>
-  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the IRDA or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; or
+  <td>ii.	Applicant has assisted another person in that person acting as an insolvency practitioner in relation to a corporation or an individual, under the IRDA or under any corresponding previous law, for a minimum of 3 continuous years, of which 2 years must be at a supervisory level; *or*
 </td>
   <td>Written confirmation from the person acting as an insolvency practitioner and whom has directly supervised the work of the Applicant, or work testimonial issued by the Applicant’s employer confirming the following:<br>
 •	Applicant’s job position;<br>
