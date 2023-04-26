@@ -1,6 +1,6 @@
 ---
 title: 'Insolvency Practitioner'
-permalink: '/general-information/insolvency practitioner/'
+permalink: '/general-information/insolvency practitioner/'/
 
 ---
 
