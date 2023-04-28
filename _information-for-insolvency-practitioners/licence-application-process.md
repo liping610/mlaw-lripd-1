@@ -7,14 +7,15 @@ breadcrumb: Licence Application Process
 ---
 <a href="#Where to Apply">Where to Apply</a>  |  <a href="#Documents Required">Documents Required</a>  |  <a href="#Validity of the Licence">Validity of the Licence </a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>  |  <a href="#Processing Time">Processing Time</a>  |  <a href="#Notification of Outcome">Notification of Outcome</a>  |  <a href="#Need Help?">Need Help?</a><br>
 
-<a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
-  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg">
+<a href="/files/infographic%202a%20-%20licence%20application%20process.pdf">
+  <img src="/images/infographic%202a%20-%20licence%20application%20process.jpg">
  </a>
 
 <br>
 <a id="Where to Apply"></a>**Where to Apply**
 <br><br>
-Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).
+Please submit your application through the Government’s [GoBusiness Licensing Platform](https://licence1.business.gov.sg/feportal/web/frontier/home?p_p_id=58&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;saveLastPath=false) using either your SINGPASS (For Singaporeans / Singapore Permanent Residents ("SPR")) or GoBusiness Licence ID (For non-Singaporean / SPR).<br><br>
+For non-Singaporean / SPR without Singpass, please click [here](https://licence1.business.gov.sg/licence1/useraccountmanagement/registerPublicUser.action) to register a new user account before you submit your application.
 <br><br>
 <a id="Documents Required"></a>**Documents Required**
 <br><br>
@@ -70,6 +71,26 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </tbody></table><br>
 
+d) For purposes of satisfying the requirements under Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023 (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
+<br>
+<table>
+<tbody><tr>
+  <td>Requirement</td>
+  <td>Supporting Documents</td>
+ </tr>
+ <tr>
+  <td>i. Applicant holds and has held the equivalent of an insolvency practitioner’s licence in a foreign jurisdiction for a minimum of 3 continuous years; and   <br>
+<br>ii. Applicant&nbsp; has acted as the equivalent of a licensed insolvency practitioner in relation to a corporation under any foreign law, in respect of proceedings relating to corporate insolvency, restructuring or dissolution that are international and commercial in nature; or where relief was sought from a court of a foreign jurisdiction under the Model Law as given effect in that jurisdiction.</td>
+  <td>
+•	Curriculum vitae;<br>
+• Documents evidencing that Applicant holds a valid insolvency practitioner’s licence (or its equivalent accreditation or registration) in a foreign jurisdiction, and has held it for at least 3 continuous years under Regulation 5(3A)(b)(i) of the IRD (IP) Regs 2023; and <br>
+•	Documents evidencing Applicant’s appointment as a licensed insolvency practitioner (or its equivalent) as set out under Regulation 5(3A)(b)(ii) of the IRD (IP) Regs 2023.
+<br>
+
+</td>
+ </tr>
+  </tbody></table><br>
+	
 <a id="Validity of the Licence"></a>**Validity of the Licence**
 <br><br>
 A licence that is issued **for the first time**, i.e. a new insolvency practitioner’s licence will remain valid until 30 June of the third year following the year in which the licence was granted. For example, if a licence is granted on 1 September 2020, it will expire on 30 June 2023 (i.e. 2020 + 3 years).
@@ -100,7 +121,7 @@ You will be notified of the outcome of your licence application via post and ema
 <br><br>
 <a id="Need Help?"></a>**Need Help?**
 <br><br>
-If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide](/files/Licence%20Application%20Guide%20for%20Insolvency%20Practitioners.pdf) for insolvency practitioners for more information.
+If you encounter difficulties or are uncertain of how a licence application should be submitted on the GoBusiness Licensing Portal, please refer to our [Licence Application Guide](/files/20230428 licence application guide for insolvency practitioners.pdf) for insolvency practitioners for more information.
 <br><br>
 ![](/images/contact%20details%20260122.jpg)
 <br>
