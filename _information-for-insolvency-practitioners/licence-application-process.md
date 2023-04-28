@@ -7,8 +7,8 @@ breadcrumb: Licence Application Process
 ---
 <a href="#Where to Apply">Where to Apply</a>  |  <a href="#Documents Required">Documents Required</a>  |  <a href="#Validity of the Licence">Validity of the Licence </a>  |  <a href="#Prescribed Fee">Prescribed Fee</a>  |  <a href="#Processing Time">Processing Time</a>  |  <a href="#Notification of Outcome">Notification of Outcome</a>  |  <a href="#Need Help?">Need Help?</a><br>
 
-<a href="/files/Infographic%202%20-%20Licence%20Application%20Process.pdf">
-  <img src="/images/Infographic%202%20-%20Licence%20Application%20Process.jpg">
+<a href="/files/Infographic%202A%20-%20Licence%20Application%20Process.pdf">
+  <img src="/images/Infographic%202A%20-%20Licence%20Application%20Process.jpg">
  </a>
 
 <br>
