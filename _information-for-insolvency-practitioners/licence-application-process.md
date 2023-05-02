@@ -71,7 +71,7 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </tbody></table><br>
 
-d) For purposes of satisfying the requirements under [Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023] (https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1) (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
+d) For purposes of satisfying the requirements under [Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023](https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1) (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
 <br>
 <table>
 <tbody><tr>
