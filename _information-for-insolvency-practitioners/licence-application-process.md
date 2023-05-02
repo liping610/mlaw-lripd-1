@@ -71,7 +71,7 @@ Details of each case that the Applicant has undertaken including:<br>
  </tr>
   </tbody></table><br>
 
-d) For purposes of satisfying the requirements under Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023 (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
+d) For purposes of satisfying the requirements under [Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023] (https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1&amp;ProvIds=pr2-#pr2-) (“IRD (IP) Regs 2023”), the supporting documents will include but are not limited to:
 <br>
 <table>
 <tbody><tr>
@@ -83,8 +83,8 @@ d) For purposes of satisfying the requirements under Regulation 5(3A) of the Ins
 <br>ii. Applicant&nbsp; has acted as the equivalent of a licensed insolvency practitioner in relation to a corporation under any foreign law, in respect of proceedings relating to corporate insolvency, restructuring or dissolution that are international and commercial in nature; or where relief was sought from a court of a foreign jurisdiction under the Model Law as given effect in that jurisdiction.</td>
   <td>
 •	Curriculum vitae;<br>
-• Documents evidencing that Applicant holds a valid insolvency practitioner’s licence (or its equivalent accreditation or registration) in a foreign jurisdiction, and has held it for at least 3 continuous years under [Regulation 5(3A)(b)(i) of the IRD (IP) Regs 2023]((https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1&amp;ProvIds=pr2-#pr2-)); and <br>
-•	Documents evidencing Applicant’s appointment as a licensed insolvency practitioner (or its equivalent) as set out under[Regulation 5(3A)(b)(ii) of the IRD (IP) Regs 2023](https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1&amp;ProvIds=pr2-#pr2-)
+• Documents evidencing that Applicant holds a valid insolvency practitioner’s licence (or its equivalent accreditation or registration) in a foreign jurisdiction, and has held it for at least 3 continuous years under Regulation 5(3A)(b)(i) of the IRD (IP) Regs 2023; and <br>
+•	Documents evidencing Applicant’s appointment as a licensed insolvency practitioner (or its equivalent) as set out under Regulation 5(3A)(b)(ii) of the IRD (IP) Regs 2023.
 <br>
 
 </td>
