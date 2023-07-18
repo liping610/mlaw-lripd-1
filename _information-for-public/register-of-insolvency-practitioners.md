@@ -6,7 +6,7 @@ breadcrumb: Register of Insolvency Practitioners
 **Register of Insolvency Practitioners**<br>
 ---
 Please click 
-<a href="/files/register_of_licensed_insolvency_practitioners_2023-07-1.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
+<a href="/files/register_of_licensed_insolvency_practitioners_2023-07-01.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
 <br>
 
 **Update of Particulars**<br>
