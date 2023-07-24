@@ -23,9 +23,5 @@ sections:
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
-notification: “For the licensed insolvency practitioners whose licence end date
-  reflects as 30 June 2023, please note that their existing licence continues to
-  be in force until the date on which the licence is renewed or the renewal
-  application is refused, pursuant to section 51(6) of the Insolvency,
-  Restructuring and Dissolution Act 2018.”
+notification: ""
 ---
