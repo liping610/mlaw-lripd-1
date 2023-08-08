@@ -9,6 +9,7 @@ Please click
 <a href="/files/register_of_licensed_insolvency_practitioners_2023-08-01.pdf" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
 <br>
 
+For the licensed insolvency practitioners whose licence end date reflects as **30 June 2023**, please note that their existing licence continues to be in force until the date on which the licence is renewed or the renewal application is refused, pursuant to **section 51(6)** of the Insolvency, Restructuring and Dissolution Act 2018.<br><br>
 **Update of Particulars**<br>
 
 Section 54(3) of the Insolvency, Restructuring and Dissolution Act 2018 requires a licensed insolvency practitioner to notify the Licensing Officer of any change in particulars **within one week** after the change is made.
