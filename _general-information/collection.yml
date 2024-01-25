@@ -1,0 +1,7 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - who-is-the-licensing-officer.md
+      - insolvency-practitioner.md
+      - register-of-licensed-insolvency-practitioners.md

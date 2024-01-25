@@ -1,0 +1,8 @@
+collections:
+  information-for-public:
+    output: true
+    order:
+      - about-the-licensing-officer.md
+      - as-an-insolvency-practitioner.md
+      - register-of-insolvency-practitioners.md
+      - filing-a-complaint-against-an-insolvency-practitioner.md
