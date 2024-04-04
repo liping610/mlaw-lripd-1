@@ -24,4 +24,6 @@ sections:
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
 notification: ""
+description: Description
+image: /images/isomer-logo.svg
 ---
