@@ -80,6 +80,7 @@ Closed on Weekends & Public Holidays<br>
 </div>
 
 Tel: 1800 2255 529<br>
+Airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers.<br>
 For overseas callers, please use +65 62255 529
 
 Enquiry Line Operating Hours
